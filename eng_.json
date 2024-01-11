@@ -1,0 +1,292 @@
+[
+    {
+      "pattern": "In the absence of",
+      "meaning": "မရှိစဉ်",
+      "category": "In",
+      "eg_video_url": "https://y.yarn.co/6be1a4bc-49e4-4828-9e22-d8fb1866aae0.mp4",
+      "examples": {
+        "example": "In the absence of evidence, the prisoner was set free.",
+        "meaning": "မျက်မြင်သက်သေ မရှိသောကြောင့် အကျဥ်းသမားကို လွှတ်လိုက်သည်။"
+      }
+    },
+    {
+      "pattern": "In accordance with",
+      "meaning": "အရ",
+      "category": "In",
+      "eg_video_url" : "https://y.yarn.co/2d2c04a5-b5a7-43ab-b59c-a3266d029156.mp4",
+      "examples": {
+        "example": "In accordance with custom, we must respect our parents.",
+        "meaning": "ဓလေ့ထုံးစံအရ ကျွန်ုပ်တို့သည် မိဘများကို ရိုသေရမည်။"
+      }
+    },
+    {
+      "pattern": "In acknowledgement of ",
+      "meaning": "အသိအမှတ်ပြုသောသဘောဖြင့်",
+      "category": "In",
+      "eg_video_url" : "https://y.yarn.co/6be1a4bc-49e4-4828-9e22-d8fb1866aae0.mp4",
+      "examples": {
+          "example": "I gave him some money in acknowledgement of his help.",
+          "meaning": "သူ၏ ကူညီမှုကို အသိအမှတ်ပြုသော သဘောဖြင့် ကျွန်ုပ်သည် ပိုက်ဆံအနည်းငယ်ပေးခဲ့သည်။"
+        }
+    },
+    {
+        "pattern": "In the act of",
+        "meaning": "လုပ်နေစဉ်တွင်",
+        "category": "In",
+        "eg_video_url" : "https://y.yarn.co/00657ee8-c92f-48e5-86c5-66c9d5f4c197.mp4",
+        "examples": {
+        "example": "The thief was caught in the act of taking money.",
+        "meaning": "သူခိုးကို ပိုက်ဆံယူနေစဉ်တွင် ဖမ်းမိခဲ့သည်။"
+      }
+    },
+    {
+      "pattern": "In addition to",
+      "meaning": "ထို့အပြင်",
+      "category": "In",
+      "eg_video_url" : "https://y.yarn.co/4cf325e5-26e1-4292-9325-c28c0b53625c.mp4",
+      "examples": {
+        "example": "He learned Burmese in addition to English.",
+        "meaning": "သူသည် အင်္ဂလိပ်စာအပြင် မြန်မာစာကိုပါသင်ယူခဲ့ပါသည်။"
+      }
+    },
+    {
+      "pattern": "In advance",
+      "meaning": "ကြိုတင်၍",
+      "category": "In",
+      "eg_video_url" : "https://y.yarn.co/d0207276-cbb1-42bb-b89f-e18171e6dfd9.mp4",
+      "examples": {
+        "example": "I bought tickets in advance.",
+        "meaning": "ကျွန်ုပ်သည် လက်မှတ်ကို ကြိုတင်၍ ဝယ်ခဲ့ပါသည်။"
+      }
+    },
+    {
+      "pattern": "In agreement",
+      "meaning": "သဘောတူညီစွာ",
+      "category": "In",
+      "eg_video_url" : "https://y.yarn.co/6dbf81b1-9526-4c89-aa91-f3afe81a10aa.mp4",
+      "examples": {
+        "example": "We are in agreement.",
+        "meaning": "ကျွန်ုပ်တို့သည် သဘောတူညီစွာ ရှိကြပါသည်။"
+      }
+    },
+    {
+      "pattern": "In agreement with",
+      "meaning": "သဘောတူညီစွာ",
+      "category": "In",
+      "eg_video_url" : "https://y.yarn.co/1e800b98-0792-4d33-acce-fa5861d6456a.mp4",
+      "examples": {
+        "example": "I am quite in agreement with what she says.",
+        "meaning": "ကျွန်ုပ်သည် သူ(မ) ပြောဆိုသည်ကို လုံးဝ သဘောတူညီစွာရှိပါသည်။"
+      }
+    },
+    {
+      "pattern": "In the air",
+      "meaning": "မသေချာ",
+      "category": "In",
+      "eg_video_url" : "https://y.yarn.co/d45f9a87-d223-4fbe-a8bd-ff10ca01d635.mp4",
+      "examples": {
+        "example": "His plans are still in the air.",
+        "meaning": "သူ၏ အကြံအစည်များသည် ယခုတိုင် မသေချာသေးပါ။"
+      }
+    },
+    {
+      "pattern": "In alarm",
+      "meaning": "ထိတ်လန့်စွာ",
+      "category": "In",
+      "eg_video_url" : null,
+      "examples": {
+        "example": "Everyone rushed out of the building in alarm when the fire starts.",
+        "meaning": "မီးစလောင်သောအခါ လူတို့သည် အဆောက်အဦးအပြင်ဘက်သို့ ထိတ်လန့်စွာ ပြေးထွက်ခဲ့ကြသည်။"
+      }
+    },
+    {
+      "pattern": "In all",
+      "meaning": "အားလုံးပေါင်း",
+      "category": "In",
+      "eg_video_url" : "c179c78a-d99c-486c-8458-d1df33628ea5.mp4",
+      "examples": {
+        "example": "Six red, two blue, one green and three white that in twelve in all.",
+        "meaning": "အနီ ၆ ခု၊ အပြာ ၂ ခု၊ အစိမ်း ၁ ခုနှင့် အဖြူ သုံးခု အားလုံးပေါင်း ၁၂ ခုဖြစ်ပါသည်။"
+      }
+    },
+    {
+      "pattern": "In amazement",
+      "meaning": "အံ့အားသင့်စွာ",
+      "category": "In",
+      "eg_video_url" : null,
+      "examples": {
+        "example": "When I gave her a flower she took it in amazement.",
+        "meaning": "ကျွန်ုပ်သည်သူမအား ပန်းတစ်ပွင့်ကိုပေးသောအခါ သူမသည် အံ့အားသင့်စွာဖြင့် ယူခဲ့ပါသည်။"
+      }
+    },
+    {
+      "pattern": "In amount",
+      "meaning": "အရေအတွက်အားဖြင့်",
+      "category": "In",
+      "eg_video_url" : "46f227ad-afed-466b-9144-b56eaf6a5237.mp4",
+      "examples": {
+        "example": "His information is large in amount but poor in quality.",
+        "meaning": "သူ၏ သတင်းပေးမှုသည် အရေအတွက်အားဖြင့်များသော်လည်း အရည်အချင်းမရှိပါ။"
+      }
+    },
+    {
+      "pattern": "In ancient times",
+      "meaning": "ရှေးအခါက",
+      "category": "In",
+      "eg_video_url" : "74ad5cf3-d6e6-4ae3-be46-0a4d934bd370.mp4",
+      "examples": {
+        "example": "In ancient times we travelled by cart.",
+        "meaning": "ရှေးအခါက ကျွန်ုပ်တို့သည် လှည်းဖြင့် ခရီးသွားခဲ့ကြပါသည်။"
+      }
+    },
+    {
+      "pattern": "In anger",
+      "meaning": "စိတ်ဆိုးစွာ",
+      "category": "In",
+      "eg_video_url": "bb5ef20d-789f-4199-9e08-2d4d93516330.mp4",
+      "examples": {
+        "example": "We sometimes do things in anger that we are sorry for afterwards.",
+        "meaning": "ကျွန်ုပ်သည် ရံဖန်ရံခါ စိတ်ဆိုးစွာ ပြုလုပ်ခဲ့ပြီး နောက်မှ ဝမ်းနည်းမိပါသည်။"
+      }
+    },
+    {
+      "pattern": "In answer to",
+      "meaning": "နာခံလျက်",
+      "category": "In",
+      "eg_video_url" : "e258dcd7-ea65-4510-af51-9b165424f3f3.mp4",
+      "examples": {
+        "example": "He came at once in answer to my telephone call.",
+        "meaning": "သူသည် ကျွန်ုပ်တယ်လီဖုန်းဖြင့် ခေါ်သည်ကိုနာခံလျက် ပြန်လာပါသည်။"
+      }
+    },
+    {
+      "pattern": "In any case",
+      "meaning": "မည်သို့ပင်ဖြစ်စေ",
+      "category": "In",
+      "eg_video_url": "4c8205d5-4604-4a31-8843-db8a24eb5f63.mp4",
+      "examples": {
+        "example": "I will come to you in any case.",
+        "meaning": "ကျွန်ုပ်သည် ဘယ်လိုပင်ဖြစ်စေ သင့်ထံသို့လာမည်။"
+      }
+    },
+    {
+      "pattern": "In arm",
+      "meaning": "ပွေ့ချီလျက်",
+      "category": "In",
+      "eg_video_url" : "8e97c123-aedf-4cbe-b206-97bb1a4de767.mp4",
+      "examples": {
+        "example": "A woman took her baby in arms.",
+        "meaning": "မိန်းမကြီး တစ်ယောက်သည် သူ(မ)ကလေးကို ပွေ့ချီလျက်ထားသည်။"
+      }
+    },
+    {
+      "pattern": "In the attempt",
+      "meaning": "ကြိုးပမ်းရင်း",
+      "category": "In",
+      "eg_video_url" : "2aea1fd9-fb7a-4e24-a634-2d44d28a43da.mp4",
+      "examples": {
+        "example": "He will die in the attempt.",
+        "meaning": "သူသည် ကြိုးစားရင်း အသေခံလိမ့်မည်။"
+      }
+    },
+    {
+      "pattern": "In a bad temper",
+      "meaning": "စိတ်အလွန်ဆိုးစွာ",
+      "category": "In",
+      "eg_video_url" : "97fa53c0-d0aa-48f5-aae3-c2dcaa2b335b.mp4",
+      "examples": {
+        "example": "She was in a bad temper.",
+        "meaning": "သူမသည် အလွန်စိတ်ဆိုးနေခဲ့ပါသည်။"
+      }
+    },
+    {
+      "pattern": "In ablaze",
+      "meaning": "မီးလောင်သည်",
+      "category": "In",
+      "eg_video_url" : "8ab7a92c-595b-4b29-86b6-13a81b451e43.mp4",
+       "examples": {
+        "example": "He upset the oil-lamp and a minute the whole room was in a blaze.",
+        "meaning": "သူသည် မီးခွက်ကိုမှောက်မိခဲ့သည့် တစ်မိနစ်အတွင်းအခန်းတစ်ခုလုံး မီးလောင်ခဲ့သည်။"
+      }
+    },
+    {
+      "pattern": "In bloom",
+      "meaning": "ပွင့်လျက်ရှိသည်",
+      "category": "In",
+      "eg_video_url" : "c1310645-37f5-421c-b6aa-e968c5eceb00.mp4",
+      "examples": {
+        "example": "The starflowers are in full bloom.",
+        "meaning": "ခရေပန်းများသည် ပွင့်လျက်ရှိကြပါသည်။"
+      }
+    },
+    {
+      "pattern": "In blossom",
+      "meaning": "ပွင့်လျက်ရှိသည်",
+      "eg_video_url" : "3e6b2987-bfb2-4347-ac55-a1ce452258da.mp4",
+      "category": "In",
+      "examples": {
+        "example": "The rose will be in blossom.",
+        "meaning": "နှင်းဆီပန်းတို့သည် ပွင့်ကြတော့မည်။"
+      }
+    },
+    {
+      "pattern": "In a body",
+      "meaning": "တစုတဝေးတည်း",
+      "category": "In",
+      "eg_video_url" : null,
+      "examples": {
+        "example": "They moved forward in a body.",
+        "meaning": "သူတို့သည်တစုတဝေးတည်း ရှေ့သို့ရွေ့ခဲ့ကြသည်။"
+      }
+    },
+    {
+      "pattern": "In case",
+      "meaning": "စိုးသောကြောင့်",
+      "category": "In",
+      "eg_video_url":"e506314c-9b93-43d9-ace1-ac97dd7638c4.mp4",
+      "examples": {
+        "example": "He told me not to go too near the water in case I fall in.",
+        "meaning": "ကျွန်ုပ်လိမ့်ကျမှာ စိုးသောကြောင့် ရေအနီးသို့ သိပ်ကပ်မသွားရန် သူသည် ကျွန်ုပ်ကိုပြောခဲ့ပါသည်။"
+      }
+    },
+    {
+      "pattern": "In clusters",
+      "meaning": "အခိုင်များအလိုက်",
+      "category": "In",
+      "eg_video_url" : null,
+      "examples": {
+        "example": "Some flowers always grow in cluster.",
+        "meaning": "အချို့သောပန်းများသည် အမြဲတမ်းအခိုင်လိုက် ပေါက်တတ်ကြသည်။"
+      }
+    },
+    {
+      "pattern": "In common",
+      "meaning": "အများနှင့်ဆိုင်စွာ",
+      "category": "In",
+      "eg_video_url":"619f818a-2c5d-4977-a601-ad044b0ff109.mp4",
+      "examples": {
+        "example": "He and I have nothing in common.",
+        "meaning": "သူနှင့်ကျွန်တော်သည် အများအားဖြင့် အကြိုက်ချင်း မတူပါ။"
+      }
+    },
+    {
+      "pattern": "In company",
+      "meaning": "တစုတဝေး",
+      "category": "In",
+      "eg_video_url":"b120c39f-184d-429a-b394-baa4b0d571cb.mp4",
+      "examples": {
+        "example": "We went there in company.",
+        "meaning": "ကျွန်ုပ်တို့သည် အတူတကွသွားကြပါသည်။"
+      }
+    },
+    {
+      "pattern": "In company with",
+      "meaning": "တစုတဝေး",
+      "eg_video_url":"0793b239-9ce4-45d5-803c-b4b9b310bb73.mp4",
+      "category": "In",
+      "examples": {
+        "example": "He came in company with a group of boys.",
+        "meaning": "သူသည် လူကလေး တအုပ်နှင့် အတူတကွလာခဲ့ပါသည်။"
+      }
+    }
+  ]
