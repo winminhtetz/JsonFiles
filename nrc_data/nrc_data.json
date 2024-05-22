@@ -1,0 +1,3074 @@
+{
+   "union_territories" :  [
+        {
+            "id": 1,
+            "name_mm": "ကချင်",
+            "type_mm": "ပြည်နယ်",
+            "name_eng": "Kachin",
+            "type_eng": "State"
+        },
+        {
+            "id": 2,
+            "name_mm": "ကယား",
+            "type_mm": "ပြည်နယ်",
+            "name_eng": "Kayah",
+            "type_eng": "State"
+        },
+        {
+            "id": 3,
+            "name_mm": "ကရင်",
+            "type_mm": "ပြည်နယ်",
+            "name_eng": "Kayin",
+            "type_eng": "State"
+        },
+        {
+            "id": 4,
+            "name_mm": "ချင်း",
+            "type_mm": "ပြည်နယ်",
+            "name_eng": "Chin",
+            "type_eng": "State"
+        },
+        {
+            "id": 5,
+            "name_mm": "စစ်ကိုင်း",
+            "type_mm": "တိုင်းဒေသကြီး",
+            "name_eng": "Sagaing",
+            "type_eng": "Region"
+        },
+        {
+            "id": 6,
+            "name_mm": "တနင်္သာရီ",
+            "type_mm": "တိုင်းဒေသကြီး",
+            "name_eng": "Tanintharyi",
+            "type_eng": "Region"
+        },
+        {
+            "id": 7,
+            "name_mm": "ပဲခူး",
+            "type_mm": "တိုင်းဒေသကြီး",
+            "name_eng": "Bago",
+            "type_eng": "Region"
+        },
+        {
+            "id": 8,
+            "name_mm": "မကွေး",
+            "type_mm": "တိုင်းဒေသကြီး",
+            "name_eng": "Magway",
+            "type_eng": "Region"
+        },
+        {
+            "id": 9,
+            "name_mm": "မန္တလေး",
+            "type_mm": "တိုင်းဒေသကြီး",
+            "name_eng": "Mandalay",
+            "type_eng": "Region"
+        },
+        {
+            "id": 10,
+            "name_mm": "မွန်",
+            "type_mm": "ပြည်နယ်",
+            "name_eng": "Mon",
+            "type_eng": "State"
+        },
+        {
+            "id": 11,
+            "name_mm": "ရခိုင်",
+            "type_mm": "ပြည်နယ်",
+            "name_eng": "Rakhine",
+            "type_eng": "State"
+        },
+        {
+            "id": 12,
+            "name_mm": "ရန်ကုန်",
+            "type_mm": "တိုင်းဒေသကြီး",
+            "name_eng": "Yangon",
+            "type_eng": "Region"
+        },
+        {
+            "id": 13,
+            "name_mm": "ရှမ်း",
+            "type_mm": "ပြည်နယ်",
+            "name_eng": "Shan",
+            "type_eng": "State"
+        },
+        {
+            "id": 14,
+            "name_mm": "ဧရာဝတီ",
+            "type_mm": "တိုင်းဒေသကြီး",
+            "name_eng": "Ayeyarwady",
+            "type_eng": "Region"
+        },
+        {
+            "id": 15,
+            "name_mm": "နေပြည်တော်",
+            "type_mm": "ပြည်ထောင်စုနယ်မြေ",
+            "name_eng": "Naypyidaw",
+            "type_eng": "Union Territory"
+        }
+    ],
+    "nrc_prefix_codes" : [
+        {
+          "code_mm": "၁/မကန",
+          "code_eng": "1/MaKaNa",
+          "township": "မြစ်ကြီးနား",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဆဘတ",
+          "code_eng": "1/HsaBaTa",
+          "township": "ဆင်ဘို (ယခင်မြို့နယ်ခွဲ)",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဝမန",
+          "code_eng": "1/WaMaNa",
+          "township": "ဝိုင်းမော်",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဆဒန",
+          "code_eng": "1/HsaDaNa",
+          "township": "ဆဒုံး (ယခင်မြို့နယ်ခွဲ)",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/အဂယ",
+          "code_eng": "1/AGaYa",
+          "township": "အင်ဂျန်းယန်",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/တနန",
+          "code_eng": "1/TaNaNa",
+          "township": "တနိုင်း",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ရဗယ",
+          "code_eng": "1/RaBaYa",
+          "township": "ရှင်ဗွေယန် (ယခင်မြို့နယ်ခွဲ)",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ခဖန",
+          "code_eng": "1/KhaPhaNa",
+          "township": "ချီဖွေ (လောခေါင်)",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဆလန",
+          "code_eng": "1/HsaLaNa",
+          "township": "ဆော့လော်",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ကပတ",
+          "code_eng": "1/KaPaTa",
+          "township": "ကန်ပိုက်တီး(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ပဝန",
+          "code_eng": "1/PaWaNa",
+          "township": "ပန်ဝါ (ယခင်မြို့နယ်ခွဲ)",
+          "district": "မြစ်ကြီးနားခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/မညန",
+          "code_eng": "1/MaNjaNa",
+          "township": "မိုးညှင်း",
+          "district": "မိုးညှင်းခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဟပန",
+          "code_eng": "1/HaPaNa",
+          "township": "ဟိုပင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မိုးညှင်းခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/မကတ",
+          "code_eng": "1/MaKaTa",
+          "township": "မိုးကောင်း",
+          "district": "မိုးညှင်းခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဖကန",
+          "code_eng": "1/HpaKaNa",
+          "township": "ဖားကန့်",
+          "district": "မိုးညှင်းခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ကမတ",
+          "code_eng": "1/KaMaTa",
+          "township": "ကာမိုင်း (ယခင်မြို့နယ်ခွဲ)",
+          "district": "မိုးညှင်းခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဗမန",
+          "code_eng": "1/BaMaNa",
+          "township": "ဗန်းမော်",
+          "district": "ဗန်းမော်ခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ရကန",
+          "code_eng": "1/RaKaNa",
+          "township": "ရွှေကူ",
+          "district": "ဗန်းမော်ခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/မလန",
+          "code_eng": "1/MaLaNa",
+          "township": "မြို့လှ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဗန်းမော်ခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/မမန",
+          "code_eng": "1/MaMaNa",
+          "township": "မိုးမောက်(စိန်လုံ)",
+          "district": "ဗန်းမော်ခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/လဂန",
+          "code_eng": "1/LaGaNa",
+          "township": "လွယ်ဂျယ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဗန်းမော်ခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဒဖယ",
+          "code_eng": "1/DaHpaYa",
+          "township": "ဒေါ့ဖုန်းယန်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဗန်းမော်ခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/မစန",
+          "code_eng": "1/MaSaNa",
+          "township": "မံစီ",
+          "district": "ဗန်းမော်ခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ပတအ",
+          "code_eng": "1/PaTaA",
+          "township": "ပူတာအို",
+          "district": "ပူတာအိုခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/မခဘ",
+          "code_eng": "1/MaKhaBa",
+          "township": "မချမ်းဘော",
+          "district": "ပူတာအိုခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/နမန",
+          "code_eng": "1/NaMaNa",
+          "township": "နောင်မွန်း",
+          "district": "ပူတာအိုခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ပနဒ",
+          "code_eng": "1/PaNaDa",
+          "township": "ပန်နန်းဒင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ပူတာအိုခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ခဘတ",
+          "code_eng": "1/KhaBaDa",
+          "township": "ခေါင်လန်ဖူး(ခေါ်ဘူဒဲ)",
+          "district": "ပူတာအိုခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၁/ဆပဘ",
+          "code_eng": "1/HsaPaBa",
+          "township": "ဆွမ်ပရာဘွမ်",
+          "district": "ပူတာအိုခရိုင်",
+          "union_territories_id": 1
+        },
+        {
+          "code_mm": "၂/လကန",
+          "code_eng": "2/LaKaNa",
+          "township": "လွိုင်ကော်",
+          "district": "လွိုင်ကော်ခရိုင်",
+          "union_territories_id": 2
+        },
+        {
+          "code_mm": "၂/ဒမဆ",
+          "code_eng": "2/DaMaHsa",
+          "township": "ဒီးမော့ဆို",
+          "district": "လွိုင်ကော်ခရိုင်",
+          "union_territories_id": 2
+        },
+        {
+          "code_mm": "၂/ဖရဆ",
+          "code_eng": "2/HpaRaHsa",
+          "township": "ဖရူဆို",
+          "district": "လွိုင်ကော်ခရိုင်",
+          "union_territories_id": 2
+        },
+        {
+          "code_mm": "၂/ရတန",
+          "code_eng": "2/RaTaNa",
+          "township": "ရှားတော",
+          "district": "လွိုင်ကော်ခရိုင်",
+          "union_territories_id": 2
+        },
+        {
+          "code_mm": "၂/ဘလခ",
+          "code_eng": "2/BaLaKha",
+          "township": "ဘောလခဲ",
+          "district": "ဘောလခဲခရိုင်",
+          "union_territories_id": 2
+        },
+        {
+          "code_mm": "၂/ဖဆန",
+          "code_eng": "2/HpaHsaNa",
+          "township": "ဖားဆောင်း",
+          "district": "ဘောလခဲခရိုင်",
+          "union_territories_id": 2
+        },
+        {
+          "code_mm": "၂/မစန",
+          "code_eng": "2/MaSaNa",
+          "township": "မယ်စဲ",
+          "district": "ဘောလခဲခရိုင်",
+          "union_territories_id": 2
+        },
+        {
+          "code_mm": "၂/ရသန",
+          "code_eng": "2/RaThaNa",
+          "township": "ရွာသစ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဘောလခဲခရိုင်",
+          "union_territories_id": 2
+        },
+        {
+          "code_mm": "၃/ဘအန",
+          "code_eng": "3/BaANa",
+          "township": "ဘားအံ",
+          "district": "ဘားအံခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/လဘန",
+          "code_eng": "3/LaBaNa",
+          "township": "လှိုင်းဘွဲ့",
+          "district": "ဘားအံခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ပကန",
+          "code_eng": "3/PaKaNa",
+          "township": "ပိုင်ကျုံ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဘားအံခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ရရသ",
+          "code_eng": "3/RaRaTha",
+          "township": "ရှမ်းရွာသစ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဘားအံခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/သတက",
+          "code_eng": "3/ThaTaKa",
+          "township": "သံတောင်ကြီး",
+          "district": "ဘားအံခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/လသန",
+          "code_eng": "3/LaThaNa",
+          "township": "လိပ်သို(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဘားအံခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ဘဂလ",
+          "code_eng": "3/BaGaLa",
+          "township": "ဘောဂလိ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဘားအံခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ဖပန",
+          "code_eng": "3/HpaPaNa",
+          "township": "ဖာပွန်",
+          "district": "ဖာပွန်ခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ကမမ",
+          "code_eng": "3/KaMaMa",
+          "township": "ကမမောင်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဖာပွန်ခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ကကရ",
+          "code_eng": "3/KaKaRa",
+          "township": "ကော့ကရိတ်",
+          "district": "ကော့ကရိတ်ခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ကဆက",
+          "code_eng": "3/KaHsaKa",
+          "township": "ကြာအင်းဆိပ်ကြီး",
+          "district": "ကော့ကရိတ်ခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ကဒန",
+          "code_eng": "3/KaDaNa",
+          "township": "ကျိုက်ဒုံ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကော့ကရိတ်ခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ဘသဆ",
+          "code_eng": "3/BaThaHsa",
+          "township": "ဘုရားသုံးဆူ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကော့ကရိတ်ခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/မဝတ",
+          "code_eng": "3/MaWaTa",
+          "township": "မြဝတီ",
+          "district": "မြဝတီခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/စကလ",
+          "code_eng": "3/SaKaLa",
+          "township": "စုကလိ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မြဝတီခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၃/ဝလမ",
+          "code_eng": "3/WaLaMa",
+          "township": "ဝေါလေမြိုင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မြဝတီခရိုင်",
+          "union_territories_id": 3
+        },
+        {
+          "code_mm": "၄/ဟခန",
+          "code_eng": "4/HaKhaNa",
+          "township": "ဟားခါး",
+          "district": "ဟားခါးခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/ထတလ",
+          "code_eng": "4/HtaTaLa",
+          "township": "ထန်တလန်",
+          "district": "ဟားခါးခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/ဖလန",
+          "code_eng": "4/HpaLaNa",
+          "township": "ဖလမ်း",
+          "district": "ဖလမ်းခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/ရခဒ",
+          "code_eng": "4/RaKhaDa",
+          "township": "ရိခေါ်ဒါရ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဖလမ်းခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/တတန",
+          "code_eng": "4/TaTaNa",
+          "township": "တီးတိန်",
+          "district": "ဖလမ်းခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/တဇန",
+          "code_eng": "4/TaZaNa",
+          "township": "တွန်းဇန်",
+          "district": "ဖလမ်းခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/ကခန",
+          "code_eng": "4/KaKhaNa",
+          "township": "ကျီခါး(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဖလမ်းခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/မတန",
+          "code_eng": "4/MaTaNa",
+          "township": "မင်းတပ်",
+          "district": "မင်းတပ်ခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/မတပ",
+          "code_eng": "4/MaTaPa",
+          "township": "မတူပီ",
+          "district": "မင်းတပ်ခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/ရဇန",
+          "code_eng": "4/YaZaNa",
+          "township": "ရေဇွာ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မင်းတပ်ခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/ကပလ",
+          "code_eng": "4/KaPaLa",
+          "township": "ကန်ပက်လက်",
+          "district": "မင်းတပ်ခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/ပလဝ",
+          "code_eng": "4/PaLaWa",
+          "township": "ပလက်ဝ",
+          "district": "မင်းတပ်ခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၄/ဆမန",
+          "code_eng": "4/HsaMaNa",
+          "township": "ဆမီး(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မင်းတပ်ခရိုင်",
+          "union_territories_id": 4
+        },
+        {
+          "code_mm": "၅/စကန",
+          "code_eng": "5/SaKaNa",
+          "township": "စစ်ကိုင်း",
+          "district": "စစ်ကိုင်းခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/မမတ",
+          "code_eng": "5/MaMaTa",
+          "township": "မြင်းမူ",
+          "district": "စစ်ကိုင်းခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/မမန",
+          "code_eng": "5/MaMaNa",
+          "township": "မြောင်",
+          "district": "စစ်ကိုင်းခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ရဘန",
+          "code_eng": "5/RaBaNa",
+          "township": "ရွှေဘို",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဝလန",
+          "code_eng": "5/WaLaNa",
+          "township": "ဝက်လက်",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ခဥန",
+          "code_eng": "5/KhaUNa",
+          "township": "ခင်ဦး",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ကဘလ",
+          "code_eng": "5/KaBaLa",
+          "township": "ကန့်ဘလူ",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ကလန",
+          "code_eng": "5/KaLaNa",
+          "township": "ကျွန်းလှ",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ရဥန",
+          "code_eng": "5/RaUNa",
+          "township": "ရေဦး",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဒပယ",
+          "code_eng": "5/DaPaYa",
+          "township": "ဒီပဲယင်း",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/တဆန",
+          "code_eng": "5/TaHsaNa",
+          "township": "တန့်ဆည်",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ကမန",
+          "code_eng": "5/KaMaNa",
+          "township": "ကျောက်မြောင်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ရွှေဘိုခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/မရန",
+          "code_eng": "5/MaRaNa",
+          "township": "မုံရွာ",
+          "district": "မုံရွာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ခဥတ",
+          "code_eng": "5/KhaUTa",
+          "township": "ချောင်းဦး",
+          "district": "မုံရွာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/အရတ",
+          "code_eng": "5/ARaTa",
+          "township": "အရာတော်",
+          "district": "မုံရွာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဘတလ",
+          "code_eng": "5/BaTaLa",
+          "township": "ဘုတလင်",
+          "district": "မုံရွာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ယမပ",
+          "code_eng": "5/YaMaPa",
+          "township": "ယင်းမာပင်",
+          "district": "ယင်းမာပင်ခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ပလန",
+          "code_eng": "5/PaLaNa",
+          "township": "ပုလဲ",
+          "district": "ယင်းမာပင်ခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ကနန",
+          "code_eng": "5/KaNaNa",
+          "township": "ကနီ",
+          "district": "ယင်းမာပင်ခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဆလက",
+          "code_eng": "5/HsaLaKa",
+          "township": "ဆားလင်းကြီး",
+          "district": "ယင်းမာပင်ခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ကသန",
+          "code_eng": "5/KaThaNa",
+          "township": "ကသာ",
+          "district": "ကသာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ထခန",
+          "code_eng": "5/HtaKhaNa",
+          "township": "ထီးချိုင့်",
+          "district": "ကသာခရိုင်",
+          "union_territories_id": 5
+        },
+      
+        {
+          "code_mm": "၅/အတန",
+          "code_eng": "5/ATaNa",
+          "township": "အင်းတော်",
+          "district": "ကသာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဗမန",
+          "code_eng": "5/BaMaNa",
+          "township": "ဗန်းမောက်",
+          "district": "ကသာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ကလတ",
+          "code_eng": "5/KaLaTa",
+          "township": "ကောလင်း",
+          "district": "ကသာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ပလဘ",
+          "code_eng": "5/PaLaBa",
+          "township": "ပင်လည်ဘူး",
+          "district": "ကသာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဝသန",
+          "code_eng": "5/WaThaNa",
+          "township": "ဝန်းသို",
+          "district": "ကသာခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ကလထ",
+          "code_eng": "5/KaLaHta",
+          "township": "ကလေး",
+          "district": "ကလေးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ကလဝ",
+          "code_eng": "5/KaLaWa",
+          "township": "ကလေးဝ",
+          "district": "ကလေးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/မကန",
+          "code_eng": "5/MaKaNa",
+          "township": "မင်းကင်း",
+          "district": "ကလေးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/တမန",
+          "code_eng": "5/TaMaNa",
+          "township": "တမူး",
+          "district": "တမူးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ခပန",
+          "code_eng": "5/KhaPaNa",
+          "township": "ခမ်းပတ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "တမူးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/မသန",
+          "code_eng": "5/MaThaNa",
+          "township": "မြို့သစ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "တမူးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/မလန",
+          "code_eng": "5/MaLaNa",
+          "township": "မော်လိုက်",
+          "district": "မော်လိုက်ခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဖပန",
+          "code_eng": "5/HpaPaNa",
+          "township": "ဖောင်းပြင်",
+          "district": "မော်လိုက်ခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ခတန",
+          "code_eng": "5/KhaTaNa",
+          "township": "ခန္တီး",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဟမလ",
+          "code_eng": "5/HaMaLa",
+          "township": "ဟုမ္မလင်း",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/လရန",
+          "code_eng": "5/LaRaNa",
+          "township": "လေရှီး",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/လဟန",
+          "code_eng": "5/LaHaNa",
+          "township": "လဟယ်",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/နယန",
+          "code_eng": "5/NaYaNa",
+          "township": "နန်းယွန်း",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ပဆန",
+          "code_eng": "5/PaHsaNa",
+          "township": "ပန်ဆောင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဒဟန",
+          "code_eng": "5/DaHaNa",
+          "township": "ဒုံဟီး(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/မပလ",
+          "code_eng": "5/MaPaLa",
+          "township": "မိုပိုင်းလွတ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ထပခ",
+          "code_eng": "5/HtaPaKa",
+          "township": "ထန်ပါခွေ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၅/ဆမရ",
+          "code_eng": "5/HsaMaRa",
+          "township": "ဆွမ္မရာ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ခန္တီးခရိုင်",
+          "union_territories_id": 5
+        },
+        {
+          "code_mm": "၆/ထဝန",
+          "code_eng": "6/HtaWaNa",
+          "township": "ထားဝယ်",
+          "district": "ထားဝယ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/လလန",
+          "code_eng": "6/LaLaNa",
+          "township": "လောင်းလုံး",
+          "district": "ထားဝယ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/သရခ",
+          "code_eng": "6/ThaRaKha",
+          "township": "သရက်ချောင်း",
+          "district": "ထားဝယ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ရဖန",
+          "code_eng": "6/RaHpaNa",
+          "township": "ရေဖြူ",
+          "district": "ထားဝယ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/မတန",
+          "code_eng": "6/MaTaNa",
+          "township": "မေတ္တာ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ထားဝယ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ကလအ",
+          "code_eng": "6/KaLaA",
+          "township": "ကလိန်အောင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ထားဝယ်ခရိုင်",
+          "union_territories_id": 6
+        },
+      {
+          "code_mm": "၆/မအရ",
+          "code_eng": "6/MaARa",
+          "township": "မြိတ်",
+          "district": "မြိတ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ကစန",
+          "code_eng": "6/KaSaNa",
+          "township": "ကျွန်းစု",
+          "district": "မြိတ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ပလန",
+          "code_eng": "6/PaLaNa",
+          "township": "ပုလော",
+          "district": "မြိတ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/တသရ",
+          "code_eng": "6/TaThaRa",
+          "township": "တနင်္သာရီ",
+          "district": "မြိတ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ပလတ",
+          "code_eng": "6/PaLaTa",
+          "township": "ပလောက်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မြိတ်ခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ကသန",
+          "code_eng": "6/KaThaNa",
+          "township": "ကော့သောင်း",
+          "district": "ကော့သောင်းခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ဘပန",
+          "code_eng": "6/BaPaNa",
+          "township": "ဘုတ်ပြင်း",
+          "district": "ကော့သောင်းခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ခမက",
+          "code_eng": "6/KhaMaKa",
+          "township": "ခမောက်ကြီး(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကော့သောင်းခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ပကမ",
+          "code_eng": "6/PaKaMa",
+          "township": "ပြည်ကြီးမဏ္ဍိုင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကော့သောင်းခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၆/ကရရ",
+          "code_eng": "6/KaRaRa",
+          "township": "ကရသူရိ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကော့သောင်းခရိုင်",
+          "union_territories_id": 6
+        },
+        {
+          "code_mm": "၇/တငန",
+          "code_eng": "7/TaNgaNa",
+          "township": "တောင်ငူ",
+          "district": "တောင်ငူခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ရတရ",
+          "code_eng": "7/RaTaRa",
+          "township": "ရေတာရှည်",
+          "district": "တောင်ငူခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ထတပ",
+          "code_eng": "7/HtaTaPa",
+          "township": "ထန်းတပင်",
+          "district": "တောင်ငူခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/အတန",
+          "code_eng": "7/ATaNa",
+          "township": "အုတ်တွင်း",
+          "district": "တောင်ငူခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ဖမန",
+          "code_eng": "7/HpaMaNa",
+          "township": "ဖြူး",
+          "district": "တောင်ငူခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ကကန",
+          "code_eng": "7/KaKaNa",
+          "township": "ကျောက်ကြီး",
+          "district": "တောင်ငူခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ပခန",
+          "code_eng": "7/PaKhaNa",
+          "township": "ပဲခူး",
+          "district": "ပဲခူးခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ကတခ",
+          "code_eng": "7/KaTaKha",
+          "township": "ကျောက်တံခါး",
+          "district": "ပဲခူးခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ရကန",
+          "code_eng": "7/RaKaNa",
+          "township": "ရွှေကျင်",
+          "district": "ပဲခူးခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ညလပ",
+          "code_eng": "7/NjaLaPa",
+          "township": "ညောင်လေးပင်",
+          "district": "ပဲခူးခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ဒဥန",
+          "code_eng": "7/DaUNa",
+          "township": "ဒိုက်ဦး",
+          "district": "ပဲခူးခရိုင်",
+          "union_territories_id": 7
+        },
+        {
+          "code_mm": "၇/ဝမန",
+          "code_eng": "7/WaMaNa",
+          "township": "ဝေါ",
+          "district": "ပဲခူးခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/သနပ",
+          "code_eng": "7/ThaNaPa",
+          "township": "သနပ်ပင်",
+          "district": "ပဲခူးခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ကဝန",
+          "code_eng": "7/KaWaNa",
+          "township": "ကဝ",
+          "district": "ပဲခူးခရိုင်",
+          "union_territories_id": 7
+        }, 
+         {
+          "code_mm": "၇/သဝတ",
+          "code_eng": "7/ThaWaTa",
+          "township": "သာယာဝတီ",
+          "district": "သာယာဝတီခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/လပတ",
+          "code_eng": "7/LaPaTa",
+          "township": "လက်ပံတန်း",
+          "district": "သာယာဝတီခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/မလန",
+          "code_eng": "7/MaLaNa",
+          "township": "မင်းလှ",
+          "district": "သာယာဝတီခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/မညန",
+          "code_eng": "7/MaNjaNa",
+          "township": "မိုးညို",
+          "district": "သာယာဝတီခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/အဖန",
+          "code_eng": "7/AHpaNa",
+          "township": "အုတ်ဖို",
+          "district": "သာယာဝတီခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ကပက",
+          "code_eng": "7/KaPaKa",
+          "township": "ကြို့ပင်ကောက်",
+          "district": "သာယာဝတီခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ဇကန",
+          "code_eng": "7/ZaKaNa",
+          "township": "ဇီးကုန်း",
+          "district": "သာယာဝတီခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/နတလ",
+          "code_eng": "7/NaTaLa",
+          "township": "နတ်တလင်း",
+          "district": "သာယာဝတီခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ပမန",
+          "code_eng": "7/PaMaNa",
+          "township": "ပြည်",
+          "district": "ပြည်ခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/သကန",
+          "code_eng": "7/ThaKaNa",
+          "township": "သဲကုန်း",
+          "district": "ပြည်ခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ရတန",
+          "code_eng": "7/RaTaNa",
+          "township": "ရွှေတောင်",
+          "district": "ပြည်ခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ပတတ",
+          "code_eng": "7/PaTaTa",
+          "township": "ပေါင်းတည်",
+          "district": "ပြည်ခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ပတန",
+          "code_eng": "7/PaTaNa",
+          "township": "ပန်းတောင်း",
+          "district": "ပြည်ခရိုင်",
+          "union_territories_id": 7
+        },
+         {
+          "code_mm": "၇/ပခတ",
+          "code_eng": "7/PaKhaTa",
+          "township": "ပေါက်ခေါင်း",
+          "district": "ပြည်ခရိုင်",
+          "union_territories_id": 7
+        },
+        {
+          "code_mm": "၈/မကန",
+          "code_eng": "8/MaKaNa",
+          "township": "မကွေး",
+          "district": "မကွေးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ရနခ",
+          "code_eng": "8/RaNaKha",
+          "township": "ရေနံချောင်း",
+          "district": "မကွေးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ခမန",
+          "code_eng": "8/KhaMaNa",
+          "township": "ချောက်",
+          "district": "မကွေးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/နမန",
+          "code_eng": "8/NaMaNa",
+          "township": "နတ်မောက်",
+          "district": "မကွေးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/မသန",
+          "code_eng": "8/MaThaNa",
+          "township": "မြို့သစ်",
+          "district": "မကွေးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/တတက",
+          "code_eng": "8/TaTaKa",
+          "township": "တောင်တွင်းကြီး",
+          "district": "မကွေးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/မဘန",
+          "code_eng": "8/MaBaNa",
+          "township": "မင်းဘူ",
+          "district": "မင်းဘူးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ပဖန",
+          "code_eng": "8/PaHpaNa",
+          "township": "ပွင့်ဖြူ",
+          "district": "မင်းဘူးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/စလန",
+          "code_eng": "8/SaLaNa",
+          "township": "စလင်း",
+          "district": "မင်းဘူးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/စတရ",
+          "code_eng": "8/SaTaRa",
+          "township": "စေတုတ္တရာ",
+          "district": "မင်းဘူးခရိုင်",
+          "union_territories_id": 8
+        },
+       {
+          "code_mm": "၈/ငဖန",
+          "code_eng": "8/NgaHpaNa",
+          "township": "ငဖဲ",
+          "district": "မင်းဘူးခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/သရန",
+          "code_eng": "8/ThaRaNa",
+          "township": "သရက်",
+          "district": "သရက်ခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/မထန",
+          "code_eng": "8/MaHtaNa",
+          "township": "အောင်လံ(မြေထဲ)",
+          "district": "သရက်ခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/အလန",
+          "code_eng": "8/ALaNa",
+          "township": "အောင်လံ",
+          "district": "သရက်ခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ကမန",
+          "code_eng": "8/KaMaNa",
+          "township": "ကံမ",
+          "district": "သရက်ခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/မတန",
+          "code_eng": "8/MaTaNa",
+          "township": "မင်းတုန်း",
+          "district": "သရက်ခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ဆပဝ",
+          "code_eng": "8/HsaPaWa",
+          "township": "ဆင်ပေါင်ဝဲ",
+          "district": "သရက်ခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/မလန",
+          "code_eng": "8/MaLaNa",
+          "township": "မင်းလှ",
+          "district": "သရက်ခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ပခက",
+          "code_eng": "8/PaKhaKa",
+          "township": "ပခုက္ကူ",
+          "district": "ပခုက္ကူခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ရစက",
+          "code_eng": "8/RaSaKa",
+          "township": "ရေစကြို",
+          "district": "ပခုက္ကူခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/မမန",
+          "code_eng": "8/MaMaNa",
+          "township": "မြိုင်",
+          "district": "ပခုက္ကူခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ပမန",
+          "code_eng": "8/PaMaNa",
+          "township": "ပေါက်",
+          "district": "ပခုက္ကူခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ဆဖန",
+          "code_eng": "8/HsaHpaNa",
+          "township": "ဆိပ်ဖြူ",
+          "district": "ပခုက္ကူခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ဂဂန",
+          "code_eng": "8/GaGaNa",
+          "township": "ဂန့်ဂေါ",
+          "district": "ဂန့်ဂေါခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ဆမန",
+          "code_eng": "8/HsaMaNa",
+          "township": "ဆော",
+          "district": "ဂန့်ဂေါခရိုင်",
+          "union_territories_id": 8
+        },
+         {
+          "code_mm": "၈/ထလန",
+          "code_eng": "8/HtaLaNa",
+          "township": "ထီးလင်း",
+          "district": "ဂန့်ဂေါခရိုင်",
+          "union_territories_id": 8
+        },
+        {
+          "code_mm": "၈/ကထန",
+          "code_eng": "8/KaHtaNa",
+          "township": "ကျောက်ထု(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဂန့်ဂေါခရိုင်",
+          "union_territories_id": 8
+        },
+        {
+          "code_mm": "၉/မနမ",
+          "code_eng": "9/MaNaMa",
+          "township": "အောင်မြေသာဇံ",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/အမဇ",
+          "code_eng": "9/AMaZa",
+          "township": "အောင်မြေသာဇံ",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မရမ",
+          "code_eng": "9/MaRaMa",
+          "township": "ချမ်းအေးသာဇံ",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ခအဇ",
+          "code_eng": "9/KhaAZa",
+          "township": "ချမ်းအေးသာဇံ",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မနတ",
+          "code_eng": "9/MaNaTa",
+          "township": "ချမ်းမြသာစည်",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ခမစ",
+          "code_eng": "9/KhaMaSa",
+          "township": "ချမ်းမြသာစည်",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မရတ",
+          "code_eng": "9/MaRaTa",
+          "township": "မဟာအောင်မြေ",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မဟမ",
+          "code_eng": "9/MaHaMa",
+          "township": "မဟာအောင်မြေ",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ပကခ",
+          "code_eng": "9/PaKaKha",
+          "township": "ပြည်ကြီးတံခွန်",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/အမရ",
+          "code_eng": "9/AMaYa",
+          "township": "အမရပူရ",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ပသက",
+          "code_eng": "9/PaThaKa",
+          "township": "ပုသိမ်ကြီး",
+          "district": "မန္တလေးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မမန",
+          "code_eng": "9/MaMaNa",
+          "township": "ပြင်ဦးလွင်",
+          "district": "ပြင်ဦးလွင်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ပဥလ",
+          "code_eng": "9/PaULa",
+          "township": "ပြင်ဦးလွင်",
+          "district": "ပြင်ဦးလွင်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မတရ",
+          "code_eng": "9/MaTaRa",
+          "township": "မတ္တရာ",
+          "district": "ပြင်ဦးလွင်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/စကန",
+          "code_eng": "9/SaKaNa",
+          "township": "စဉ့်ကူး",
+          "district": "ပြင်ဦးလွင်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/သပက",
+          "code_eng": "9/ThaPaKa",
+          "township": "သပိတ်ကျင်း",
+          "district": "ပြင်ဦးလွင်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မကန",
+          "code_eng": "9/MaKaNa",
+          "township": "မိုးကုတ်",
+          "district": "ပြင်ဦးလွင်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/တကတ",
+          "code_eng": "9/TaKaTa",
+          "township": "တကောင်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ပြင်ဦးလွင်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ကဆန",
+          "code_eng": "9/KaHsaNa",
+          "township": "ကျောက်ဆည်",
+          "district": "ကျောက်ဆည်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/စကတ",
+          "code_eng": "9/SaKaTa",
+          "township": "စဉ့်ကိုင်",
+          "district": "ကျောက်ဆည်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မသန",
+          "code_eng": "9/MaThaNa",
+          "township": "မြစ်သား",
+          "district": "ကျောက်ဆည်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/တတဥ",
+          "code_eng": "9/TaTaU",
+          "township": "တံတားဦး",
+          "district": "ကျောက်ဆည်ခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မခန",
+          "code_eng": "9/MaKhaNa",
+          "township": "မြင်းခြံ",
+          "district": "မြင်းခြံခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/တသန",
+          "code_eng": "9/TaThaNa",
+          "township": "တောင်သာ",
+          "district": "မြင်းခြံခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ကပတ",
+          "code_eng": "9/KaPaTa",
+          "township": "ကျောက်ပန်းတောင်း",
+          "district": "မြင်းခြံခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/နထက",
+          "code_eng": "9/NaHtaKa",
+          "township": "နွားထိုးကြီ",
+          "district": "မြင်းခြံခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ညဥန",
+          "code_eng": "9/NjaUNa",
+          "township": "ညောင်ဦး(ပုဂံ)",
+          "district": "ညောင်ဦးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ငဇန",
+          "code_eng": "9/NgaZaNa",
+          "township": "ငါန်းဇွန်း",
+          "district": "ညောင်ဦးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ငသရ",
+          "code_eng": "9/NgaThaRa",
+          "township": "ငါ့သရောက်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ညောင်ဦးခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မထလ",
+          "code_eng": "9/MaHtaLa",
+          "township": "မိတ္ထီလာ",
+          "district": "မိတ္ထီလာခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/မလန",
+          "code_eng": "9/MaLaNa",
+          "township": "မလှိုင်",
+          "district": "မိတ္ထီလာခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/သစန",
+          "code_eng": "9/ThaSaNa",
+          "township": "သာစည်",
+          "district": "မိတ္ထီလာခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ဝတန",
+          "code_eng": "9/WaTaNa",
+          "township": "ဝမ်းတွင်း",
+          "district": "မိတ္ထီလာခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ရမသ",
+          "code_eng": "9/RaMaTha",
+          "township": "ရမည်းသင်",
+          "district": "ရမည်းသင်းခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၉/ပဘန",
+          "code_eng": "9/PaBaNa",
+          "township": "ပျော်ဘွယ်",
+          "district": "ရမည်းသင်းခရိုင်",
+          "union_territories_id": 9
+      },
+      {
+          "code_mm": "၁၀/မလမ",
+          "code_eng": "10/MaLaMa",
+          "township": "မော်လမြိုင်",
+          "district": "မော်လမြိုင်ခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/ကမရ",
+          "code_eng": "10/KaMaRa",
+          "township": "ကျိုက်မရော",
+          "district": "မော်လမြိုင်ခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/ခဆန",
+          "code_eng": "10/KhaHsaNa",
+          "township": "ချောင်းဆုံ",
+          "district": "မော်လမြိုင်ခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/သဖရ",
+          "code_eng": "10/ThaHpaRa",
+          "township": "သံဖြူဇရပ်",
+          "district": "မော်လမြိုင်ခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/မဒန",
+          "code_eng": "10/MaDaNa",
+          "township": "မုဒုံ",
+          "district": "မော်လမြိုင်ခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/ရမန",
+          "code_eng": "10/RaMaNa",
+          "township": "ရေး",
+          "district": "မော်လမြိုင်ခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/လမန",
+          "code_eng": "10/LaMaNa",
+          "township": "လမိုင်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မော်လမြိုင်ခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/ခဇန",
+          "code_eng": "10/KhaZaNa",
+          "township": "ခေါဇာ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မော်လမြိုင်ခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/သထန",
+          "code_eng": "10/ThaHtaNa",
+          "township": "သထုံ",
+          "district": "သထုံခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/ပမန",
+          "code_eng": "10/PaMaNa",
+          "township": "ပေါင်",
+          "district": "သထုံခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/ကထန",
+          "code_eng": "10/KaHtaNa",
+          "township": "ကျိုက်ထို",
+          "district": "သထုံခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၀/ဘလန",
+          "code_eng": "10/BaLaNa",
+          "township": "ဘီးလင်း",
+          "district": "သထုံခရိုင်",
+          "union_territories_id": 10
+      },
+      {
+          "code_mm": "၁၁/စတန",
+          "code_eng": "11/SaTaNa",
+          "township": "စစ်တွေ",
+          "district": "စစ်တွေခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ရသတ",
+          "code_eng": "11/RaThaTa",
+          "township": "ရသေ့တောင်",
+          "district": "စစ်တွေခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ပဏက",
+          "code_eng": "11/PaNaKa",
+          "township": "ပုဏ္ဏားကျွန်",
+          "district": "စစ်တွေခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ပတန",
+          "code_eng": "11/PaTaNa",
+          "township": "ပေါက်တော",
+          "district": "စစ်တွေခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/မဥန",
+          "code_eng": "11/MaUNa",
+          "township": "မြောက်ဦး",
+          "district": "မြောက်ဦးခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/မပန",
+          "code_eng": "11/MaPaNa",
+          "township": "မင်းပြား",
+          "district": "မြောက်ဦးခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ကတန",
+          "code_eng": "11/KaTaNa",
+          "township": "ကျောက်တော်",
+          "district": "မြောက်ဦးခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/မပတ",
+          "code_eng": "11/MaPaTa",
+          "township": "မြေပုံ",
+          "district": "မြောက်ဦးခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/မတန",
+          "code_eng": "11/MaTaNa",
+          "township": "မောင်တော",
+          "district": "မောင်တောခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ဘသတ",
+          "code_eng": "11/BaThaTa",
+          "township": "ဘူးသီးတောင်",
+          "district": "မောင်တောခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/တပဝ",
+          "code_eng": "11/TaPaWa",
+          "township": "တောင်ပြိုလက်ဝဲ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မောင်တောခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ကဖန",
+          "code_eng": "11/KaHpaNa",
+          "township": "ကျောက်ဖြူ",
+          "district": "ကျောက်ဖြူခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ရဗန",
+          "code_eng": "11/RaBaNa",
+          "township": "ရမ်းဗြဲ",
+          "district": "ကျောက်ဖြူခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/မအန",
+          "code_eng": "11/MaANa",
+          "township": "မာန်အောင်",
+          "district": "ကျောက်ဖြူခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/အမန",
+          "code_eng": "11/AMaNa",
+          "township": "အမ်း",
+          "district": "ကျောက်ဖြူခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/သတန",
+          "code_eng": "11/ThaTaNa",
+          "township": "သံတွဲ",
+          "district": "သံတွဲခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/တကန",
+          "code_eng": "11/TaKaNa",
+          "township": "တောင်ကုတ်",
+          "district": "သံတွဲခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/မအတ",
+          "code_eng": "11/MaATa",
+          "township": "မအီ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "သံတွဲခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ဂမန",
+          "code_eng": "11/GaMaNa",
+          "township": "ဂွ",
+          "district": "သံတွဲခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၁/ကတလ",
+          "code_eng": "11/KaTaLa",
+          "township": "ကျိန္တလီ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "သံတွဲခရိုင်",
+          "union_territories_id": 11
+      },
+      {
+          "code_mm": "၁၂/သဃက",
+          "code_eng": "12/ThaGaKa",
+          "township": "သင်္ဃန်းကျွန်",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ရကန",
+          "code_eng": "12/RaKaNa",
+          "township": "ရန်ကင်း",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဥကတ",
+          "code_eng": "12/UKaTa",
+          "township": "တောင်ဥက္ကလာပ",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဥကမ",
+          "code_eng": "12/UKaMa",
+          "township": "မြောက်ဥက္ကလာပ",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/သကတ",
+          "code_eng": "12/ThaKaTa",
+          "township": "သာကေတ",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဒပန",
+          "code_eng": "12/DaPaNa",
+          "township": "ဒေါပုံ",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/တမန",
+          "code_eng": "12/TaMaNa",
+          "township": "တာမွေ",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ပဇတ",
+          "code_eng": "12/PaZaTa",
+          "township": "ပုဇွန်တောင်",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဗတထ",
+          "code_eng": "12/BaTaHta",
+          "township": "ဗိုလ်တထောင်",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/မဂတ",
+          "code_eng": "12/MaGaTa",
+          "township": "မင်္ဂလာတောင်ညွန့်",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဒဂမ",
+          "code_eng": "12/DaGaMa",
+          "township": "ဒဂုံမြောက်ပိုင်း",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဒဂရ",
+          "code_eng": "12/DaGaRa",
+          "township": "ဒဂုံအရှေ့ပိုင်",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဒဂတ",
+          "code_eng": "12/DaGaTa",
+          "township": "ဒဂုံတောင်",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဒဂဆ",
+          "code_eng": "12/DaGaHsa",
+          "township": "ဒဂုံဆိပ်ကမ်း",
+          "district": "အရှေ့ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ကတတ",
+          "code_eng": "12/KaTaTa",
+          "township": "ကျောက်တံတား",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ပဘတ",
+          "code_eng": "12/PaBaTa",
+          "township": "ပန်းဘဲတန်း",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/လမတ",
+          "code_eng": "12/LaMaTa",
+          "township": "လမ်းမတော်",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/လသန",
+          "code_eng": "12/LaThaNa",
+          "township": "လသာ",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/အလန",
+          "code_eng": "12/ALaNa",
+          "township": "အလုံ",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ကမတ",
+          "code_eng": "12/KaMaTa",
+          "township": "ကြည့်မြင်တိုင်",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/စခန",
+          "code_eng": "12/SaKhaNa",
+          "township": "စမ်းချောင်း",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/လမန",
+          "code_eng": "12/LaMaNa",
+          "township": "လှိုင်",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ကမရ",
+          "code_eng": "12/KaMaRa",
+          "township": "ကမာရွတ်",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/မရက",
+          "code_eng": "12/MaRaKa",
+          "township": "မရမ်းကုန်း",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဒဂန",
+          "code_eng": "12/DaGaNa",
+          "township": "ဒဂုံ",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဗဟန",
+          "code_eng": "12/BaHaNa",
+          "township": "ဗဟန်း",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဆကန",
+          "code_eng": "12/HsaKaNa",
+          "township": "ဆိပ်ကမ်း",
+          "district": "အနောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/သလန",
+          "code_eng": "12/ThaLaNa",
+          "township": "သန်လျင်",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ကတန",
+          "code_eng": "12/KaTaNa",
+          "township": "ကျောက်တန်",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/တတတ",
+          "code_eng": "12/TaTaTa",
+          "township": "တံတား(ယခင်မြို့နယ်ခွဲ)",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/သခန",
+          "code_eng": "12/ThaKhaNa",
+          "township": "သုံးခွ",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ခရန",
+          "code_eng": "12/KhaRaNa",
+          "township": "ခရမ်း",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/တတန",
+          "code_eng": "12/TaTaNa",
+          "township": "တွံတေး",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ကမန",
+          "code_eng": "12/KaMaNa",
+          "township": "ကော့မှူး",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ကခက",
+          "code_eng": "12/KaKhaKa",
+          "township": "ကွမ်းခြံကုန်း",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဒလန",
+          "code_eng": "12/DaLaNa",
+          "township": "ဒလ",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ဆကခ",
+          "code_eng": "12/HsaKaKha",
+          "township": "ဆိပ်ကြီးခနောင်တို",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ကကက",
+          "code_eng": "12/KaKaKa",
+          "township": "ကိုကိုးကျွန်း",
+          "district": "တောင်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/အစန",
+          "code_eng": "12/ASaNa",
+          "township": "အင်းစိန်",
+          "district": "မြောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/မဂဒ",
+          "code_eng": "12/MaGaDa",
+          "township": "မင်္ဂလာဒုံ",
+          "district": "မြောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/မဘန",
+          "code_eng": "12/MaBaNa",
+          "township": "မှော်ဘီ",
+          "district": "မြောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/လကန",
+          "code_eng": "12/LaKaNa",
+          "township": "လှည်းကူး",
+          "district": "မြောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/တကန",
+          "code_eng": "12/TaKaNa",
+          "township": "တိုက်ကြီး",
+          "district": "မြောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ထတပ",
+          "code_eng": "12/HtaTaPa",
+          "township": "ထန်းတပင်",
+          "district": "မြောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/ရပသ",
+          "code_eng": "12/RaPaTha",
+          "township": "ရွှေပြည်သာ",
+          "district": "မြောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၂/လသယ",
+          "code_eng": "12/LaThaYa",
+          "township": "လှိုင်သာယာ",
+          "district": "မြောက်ပိုင်းခရိုင်",
+          "union_territories_id": 12
+      },
+      {
+          "code_mm": "၁၃/တကန",
+          "code_eng": "13/TaKaNa",
+          "township": "တောင်ကြီး",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ဟပန",
+          "code_eng": "13/HaPaNa",
+          "township": "ဟိုပုံး",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ညရန",
+          "code_eng": "13/NjaRaNa",
+          "township": "ညောင်ရွှေ",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ဆဆန",
+          "code_eng": "13/HsaHsaNa",
+          "township": "ဆီဆိုင်",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ကလန",
+          "code_eng": "13/KaLaNa",
+          "township": "ကလော",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ပတယ",
+          "code_eng": "13/PaTaYa",
+          "township": "ပင်းတယ",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ရငန",
+          "code_eng": "13/RaNgaNa",
+          "township": "ရွာငံ",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ရစန",
+          "code_eng": "13/RaSaNa",
+          "township": "ရပ်စောက်",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ပလန",
+          "code_eng": "13/PaLaNa",
+          "township": "ပင်လောင်း",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ဖခန",
+          "code_eng": "13/HpaKhaNa",
+          "township": "ဖယ်ခုံ",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ကတလ",
+          "code_eng": "13/KaTaLa",
+          "township": "ကျောက်တလုံး(ယခင်မြို့နယ်ခွဲ)",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/နတရ",
+          "code_eng": "13/NaTaRa",
+          "township": "နောင်တရား(ယခင်မြို့နယ်ခွဲ)",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/အတန",
+          "code_eng": "13/ATaNa",
+          "township": "အင်တော(ယခင်မြို့နယ်ခွဲ)",
+          "district": "တောင်ကြီးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/လလန",
+          "code_eng": "13/LaLaNa",
+          "township": "လွိုင်လင်",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/လခန",
+          "code_eng": "13/LaKhaNa",
+          "township": "လဲချား",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/နစန",
+          "code_eng": "13/NaSaNa",
+          "township": "နမ့်စန်(တ)",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ကဟန",
+          "code_eng": "13/KaHaNa",
+          "township": "ကွန်ဟိန်း",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ကသန",
+          "code_eng": "13/KaThaNa",
+          "township": "ကျေးသီး",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/မကန",
+          "code_eng": "13/MaKaNa",
+          "township": "မိုင်းကိုင်",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/မရန",
+          "code_eng": "13/MaRaNa",
+          "township": "မိုင်းရှူး",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ပလတ",
+          "code_eng": "13/PaLaTa",
+          "township": "ပင်လုံ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/မနတ",
+          "code_eng": "13/MaNaTa",
+          "township": "မိုင်းနောင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ခလန",
+          "code_eng": "13/KhaLaNa",
+          "township": "ခိုလမ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ကလဒ",
+          "code_eng": "13/KaLaDa",
+          "township": "ကာလိ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/မစန",
+          "code_eng": "13/MaSaNa",
+          "township": "မိုင်းစံ(မုန်းဆန်းခွဲ)",
+          "district": "လွိုင်လင်ခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/လခတ",
+          "code_eng": "13/LaKhaTa",
+          "township": "လင်းခေး",
+          "district": "လင်းခေးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/မနန",
+          "code_eng": "13/MaNaNa",
+          "township": "မိုးနဲ",
+          "district": "လင်းခေးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/မမန",
+          "code_eng": "13/MaMaNa",
+          "township": "မောက်မယ်",
+          "district": "လင်းခေးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/မပန",
+          "code_eng": "13/MaPaNa",
+          "township": "မိုင်းပန်",
+          "district": "လင်းခေးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ဟမန",
+          "code_eng": "13/HaMaNa",
+          "township": "ဟိုမိန်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လင်းခေးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/ကတတ",
+          "code_eng": "13/KaTaTa",
+          "township": "ကျိုင်းတောင်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လင်းခေးခရိုင်",
+          "union_territories_id": 13
+      },
+      {
+          "code_mm": "၁၃/လရန",
+          "code_eng": "13/LaRaNa",
+          "township": "လားရှိုး",
+          "district": "လားရှိုးခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/သနန",
+          "code_eng": "13/ThaNaNa",
+          "township": "သိန္နီ",
+          "district": "လားရှိုးခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/တယန",
+          "code_eng": "13/TaYaNa",
+          "township": "တန့်ယန်း",
+          "district": "လားရှိုးခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မရတ",
+          "code_eng": "13/MaRaTa",
+          "township": "မိုင်းရယ်",
+          "district": "လားရှိုးခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ကလတ",
+          "code_eng": "13/KaLaTa",
+          "township": "ကွမ်းလုံ",
+          "district": "လားရှိုးခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ပယန",
+          "code_eng": "13/PaYaNa",
+          "township": "မက်မန်း(ပန်ယန်း)",
+          "district": "မက်မန်းခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/နဖန",
+          "code_eng": "13/NaHpaNa",
+          "township": "နားဖန်း",
+          "district": "မက်မန်းခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မဖတ",
+          "code_eng": "13/MaHpaTa",
+          "township": "မန်ဖန့်",
+          "district": "မက်မန်းခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ပဆန",
+          "code_eng": "13/PaHsaNa",
+          "township": "ပန်ဆန်း",
+          "district": "မက်မန်းခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မကထ",
+          "code_eng": "13/MaKaHta",
+          "township": "မန်ကန်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မက်မန်းခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မဆတ",
+          "code_eng": "13/MaHsaTa",
+          "township": "မူဆယ်",
+          "district": "မူဆယ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/နခန",
+          "code_eng": "13/NaKhaNa",
+          "township": "နမ့်ခမ်း",
+          "district": "မူဆယ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ကခန",
+          "code_eng": "13/KaKhaNa",
+          "township": "ကွတ်ခိုင်",
+          "district": "မူဆယ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/တမည",
+          "code_eng": "13/TaMaNja",
+          "township": "တာမိုးညဲ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မူဆယ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မဟရ",
+          "code_eng": "13/MaHaRa",
+          "township": "မန်ဟီးရိုး(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မူဆယ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မကတ",
+          "code_eng": "13/MaKaTa",
+          "township": "မုန်းကိုး(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မူဆယ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ပဆတ",
+          "code_eng": "13/PaHsaTa",
+          "township": "ပန်ဆိုင်း(ကြူကုတ်)(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မူဆယ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ကမန",
+          "code_eng": "13/KaMaNa",
+          "township": "ကျောက်မဲ",
+          "district": "ကျောက်မဲခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/သပန",
+          "code_eng": "13/ThaPaNa",
+          "township": "သီပေါ",
+          "district": "ကျောက်မဲခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/နခတ",
+          "code_eng": "13/NaKhaTa",
+          "township": "နောင်ချို",
+          "district": "ကျောက်မဲခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/နမတ",
+          "code_eng": "13/NaMaTa",
+          "township": "နမ္မတူ",
+          "district": "ကျောက်မဲခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/နဆန",
+          "code_eng": "13/NaHsaNa",
+          "township": "နမ့်ဆန်",
+          "district": "ကျောက်မဲခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မတတ",
+          "code_eng": "13/MaTaTa",
+          "township": "မန်တုံ",
+          "district": "ကျောက်မဲခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မငန",
+          "code_eng": "13/MaNgaNa",
+          "township": "မိုင်းငေါ့(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကျောက်မဲခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မလတ",
+          "code_eng": "13/MaLaTa",
+          "township": "မိုင်းလုံ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကျောက်မဲခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မမတ",
+          "code_eng": "13/MaMaTa",
+          "township": "မိုးမိတ်",
+          "district": "မိုးမိတ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မဘန",
+          "code_eng": "13/MaBaNa",
+          "township": "မဘိမ်း",
+          "district": "မိုးမိတ်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ဟပတ",
+          "code_eng": "13/HaPaTa",
+          "township": "ဟိုပန်",
+          "district": "ဟိုပန်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ပဝန",
+          "code_eng": "13/PaWaNa",
+          "township": "ပန်ဝိုင်",
+          "district": "ဟိုပန်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မမထ",
+          "code_eng": "13/MaMaHta",
+          "township": "မိုင်းမော",
+          "district": "ဟိုပန်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/နတန",
+          "code_eng": "13/NaTaNa",
+          "township": "နမ့်တစ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဟိုပန်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ပလထ",
+          "code_eng": "13/PaLaHta",
+          "township": "ပန်လုံ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဟိုပန်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/လကန",
+          "code_eng": "13/LaKaNa",
+          "township": "လောက်ကိုင်",
+          "district": "လောက်ကိုင်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ကကန",
+          "code_eng": "13/KaKaNa",
+          "township": "ကုန်းကြမ်း",
+          "district": "လောက်ကိုင်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/ခရဟ",
+          "code_eng": "13/KhaRaHa",
+          "township": "ချင်းရွှေဟော်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လောက်ကိုင်ခရိုင်",
+          "union_territories_id":13
+        },
+      {
+          "code_mm": "၁၃/မထတ",
+          "code_eng": "13/MaHtaTa",
+          "township": "မော်ထိုက်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လောက်ကိုင်ခရိုင်",
+          "union_territories_id":13
+        },
+        {
+          "code_mm": "၁၃/ကတန",
+          "code_eng": "13/KaTaNa",
+          "township": "ကျိုင်းတုံ",
+          "district": "ကျိုင်းတုံခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မလန",
+          "code_eng": "13/MaLaNa",
+          "township": "မိုင်းလား",
+          "district": "ကျိုင်းတုံခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မယန",
+          "code_eng": "13/MaYaNa",
+          "township": "မိုင်းယန်း",
+          "district": "ကျိုင်းတုံခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မပထ",
+          "code_eng": "13/MaPaHta",
+          "township": "မိုင်းပေါက်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကျိုင်းတုံခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မခန",
+          "code_eng": "13/MaKhaNa",
+          "township": "မိုင်းခတ်",
+          "district": "ကျိုင်းတုံခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မပတ",
+          "code_eng": "13/MaPaTa",
+          "township": "မိုင်းပျဥ်း",
+          "district": "ကျိုင်းတုံခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/တတန",
+          "code_eng": "13/TaTaNa",
+          "township": "တုံတာ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ကျိုင်းတုံခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မဆန",
+          "code_eng": "13/MaHsaNa",
+          "township": "မိုင်းဆတ်",
+          "district": "မိုင်းဆတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မခတ",
+          "code_eng": "13/MaKhaTa",
+          "township": "မိုင်းခုတ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မိုင်းဆတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မတန",
+          "code_eng": "13/MaTaNa",
+          "township": "မိုင်းတုံ",
+          "district": "မိုင်းဆတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/ပပက",
+          "code_eng": "13/PaPaKa",
+          "township": "ပုံပါကျင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မိုင်းဆတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မထန",
+          "code_eng": "13/MaHtaNa",
+          "township": "မုံးထ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မိုင်းဆတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မဖန",
+          "code_eng": "13/MaHpaNa",
+          "township": "မိုင်းဖြတ်",
+          "district": "မိုင်းဖြတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မယတ",
+          "code_eng": "13/MaYaTa",
+          "township": "မိုင်းယောင်း",
+          "district": "မိုင်းဖြတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/မယထ",
+          "code_eng": "13/MaYaHta",
+          "township": "မိုင်းယု(ယခင်မြို့နယ်ခွဲ)",
+          "district": "မိုင်းဖြတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/တခလ",
+          "code_eng": "13/TaKhaLa",
+          "township": "တာချီလိတ်",
+          "district": "တာချီလိတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/တလန",
+          "code_eng": "13/TaLaNa",
+          "township": "တာလေ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "တာချီလိတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+      {
+          "code_mm": "၁၃/ကလထ",
+          "code_eng": "13/KaLaHta",
+          "township": "ကျိုင်းလပ်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "တာချီလိတ်ခရိုင်",
+          "union_territories_id": 13
+        },
+        {
+          "code_mm": "၁၄/ပသန",
+          "code_eng": "14/PaThaNa",
+          "township": "ပုသိမ်",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ရသယ",
+          "code_eng": "14/RaThaYa",
+          "township": "ရွှေသောင်ယံ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ငဆန",
+          "code_eng": "14/NgaHsaNa",
+          "township": "ငွေဆောင်(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ပသရ",
+          "code_eng": "14/PaThaRa",
+          "township": "ကန်ကြီးထောင့်",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ကကထ",
+          "code_eng": "14/KaKaHta",
+          "township": "ကန်ကြီးထောင့်",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ငပတ",
+          "code_eng": "14/NgaPaTa",
+          "township": "ငပုတော",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ဟကက",
+          "code_eng": "14/HaKaKa",
+          "township": "ဟိုင်းကြီးကျွန်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ငရက",
+          "code_eng": "14/NgaRaKa",
+          "township": "ငရုတ်ကောင်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/သပန",
+          "code_eng": "14/ThaPaNa",
+          "township": "သာပေါင်း",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ကကန",
+          "code_eng": "14/KaKaNa",
+          "township": "ကျောင်းကုန်း",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ရကန",
+          "code_eng": "14/RaKaNa",
+          "township": "ရေကြည်",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ငသခ",
+          "code_eng": "14/NgaThaKha",
+          "township": "ငသိုင်းချောင်း(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ကပန",
+          "code_eng": "14/KaPaNa",
+          "township": "ကျုံပျော်",
+          "district": "ပုသိမ်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ဟသတ",
+          "code_eng": "14/HaThaTa",
+          "township": "ဟင်္သာတ",
+          "district": "ဟင်္သာတခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ဇလန",
+          "code_eng": "14/ZaLaNa",
+          "township": "ဇလွန်",
+          "district": "ဟင်္သာတခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/လမန",
+          "code_eng": "14/LaMaNa",
+          "township": "လေးမျက်နှာ",
+          "district": "ဟင်္သာတခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/အဂပ",
+          "code_eng": "14/AGaPa",
+          "township": "အင်္ဂပူ",
+          "district": "ဟင်္သာတခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/မအန",
+          "code_eng": "14/MaANa",
+          "township": "မြန်အောင်",
+          "district": "ဟင်္သာတခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ကခန",
+          "code_eng": "14/KaKhaNa",
+          "township": "ကြံခင်း",
+          "district": "ဟင်္သာတခရိုင်",
+          "union_territories_id": 14
+        },
+      
+      {
+          "code_mm": "၁၄/မအပ",
+          "code_eng": "14/MaAPa",
+          "township": "မအူပင်",
+          "district": "မအူပင်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ပတန",
+          "code_eng": "14/PaTaNa",
+          "township": "ပန်းတနော်",
+          "district": "မအူပင်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ညတန",
+          "code_eng": "14/NjaTaNa",
+          "township": "ညောင်တုန်း",
+          "district": "မအူပင်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ဓနဖ",
+          "code_eng": "14/DaNaHpa",
+          "township": "ဓနုဖြူ",
+          "district": "မအူပင်ခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ဖပန",
+          "code_eng": "14/HpaPaNa",
+          "township": "ဖျာပုံ",
+          "district": "ဖျာပုံခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/အမတ",
+          "code_eng": "14/AMaTa",
+          "township": "အမာ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "ဖျာပုံခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ဘကလ",
+          "code_eng": "14/BaKaLa",
+          "township": "ဘိုကလေး",
+          "district": "ဖျာပုံခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ကလန",
+          "code_eng": "14/KaLaNa",
+          "township": "ကျိုက်လတ်",
+          "district": "ဖျာပုံခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ဒဒရ",
+          "code_eng": "14/DaDaYa",
+          "township": "ဒေးဒရဲ",
+          "district": "ဖျာပုံခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/လပတ",
+          "code_eng": "14/LaPaTa",
+          "township": "လပွတ္တာ",
+          "district": "လပွတ္တာခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ပစလ",
+          "code_eng": "14/PaSaLa",
+          "township": "ပြင်စလူ(ယခင်မြို့နယ်ခွဲ)",
+          "district": "လပွတ္တာခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/မမက",
+          "code_eng": "14/MaMaKa",
+          "township": "မော်လမြိုင်ကျွန်း",
+          "district": "လပွတ္တာခရိုင်",
+          "union_territories_id": 14
+        },
+      
+      {
+          "code_mm": "၁၄/မမန",
+          "code_eng": "14/MaMaNa",
+          "township": "မြောင်းမြ",
+          "district": "မြောင်းမြခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/အမန",
+          "code_eng": "14/AMaNa",
+          "township": "အိမ်မဲ",
+          "district": "မြောင်းမြခရိုင်",
+          "union_territories_id": 14
+        },
+      {
+          "code_mm": "၁၄/ဝခမ",
+          "code_eng": "14/WaKhaMa",
+          "township": "ဝါးခယ်မ",
+          "district": "မြောင်းမြခရိုင်",
+          "union_territories_id": 14
+        },
+        {
+          "code_mm": "၉/ဥတသ",
+          "code_eng": "9/UTaTha",
+          "township": "ဥတ္တရသီရိ",
+          "district": "ဥတ္တရခရိုင်",
+          "union_territories_id": 15
+        },
+      {
+          "code_mm": "၉/ဇယသ",
+          "code_eng": "9/ZaYaTha",
+          "township": "ဇေယျာသီရိ",
+          "district": "ဥတ္တရခရိုင်",
+          "union_territories_id": 15
+        },
+      
+      {
+          "code_mm": "၉/ပဗသ",
+          "code_eng": "9/PaBaTha",
+          "township": "ပုဗ္ဗသီရိ",
+          "district": "ဥတ္တရခရိုင်",
+          "union_territories_id": 15
+        },
+      
+      {
+          "code_mm": "၉/တကန",
+          "code_eng": "9/TaKaNa",
+          "township": "တပ်ကုန်း",
+          "district": "ဥတ္တရခရိုင်",
+          "union_territories_id": 15
+        },
+      
+      {
+          "code_mm": "၉/ဒခသ",
+          "code_eng": "9/DaKhaTa",
+          "township": "ဒက္ခိဏသီရိ",
+          "district": "ဒက္ခိဏခရိုင်",
+          "union_territories_id": 15
+        },
+      
+      {
+          "code_mm": "၉/ဇဗသ",
+          "code_eng": "9/ZaBaTha",
+          "township": "ဇဗ္ဗူသီရိ",
+          "district": "ဒက္ခိဏခရိုင်",
+          "union_territories_id": 15
+        },
+      
+      {
+          "code_mm": "၉/ပမန",
+          "code_eng": "9/PaMaNa",
+          "township": "ပျဥ်းမနား",
+         "district": "ဒက္ခိဏခရိုင်",
+          "union_territories_id": 15
+        },
+      
+      {
+          "code_mm": "၉/လဝန",
+          "code_eng": "9/LaWaNa",
+          "township": "လယ်ဝေး",
+          "district": "ဒက္ခိဏခရိုင်",
+          "union_territories_id": 15
+        }
+      ]
+}
