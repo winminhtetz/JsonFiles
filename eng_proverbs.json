@@ -1,0 +1,1441 @@
+[
+    {
+        "type": "proverbs",
+        "content": "A bad workman always blames his tools.",
+        "meaning": "This proverb is used when someone blames the quality of their equipment or other external factors when they perform a task poorly.",
+        "category": "Work & Success",
+        "example": "I don’t think the problem is with the software. It’s just that a bad workman always blames his tools."
+    },
+    {
+        "type": "proverbs",
+        "content": "A bird in the hand is worth two in the bush.",
+        "meaning": "This proverb means that it is better to have something that is certain than take a risk to get more, where you might lose everything.",
+        "category": "Life Lessons",
+        "example": "I know you want a better job, but don’t quit your current job until you have another one. Remember, a bird in the hand is worth two in the bush."
+    },
+    {
+        "type": "proverbs",
+        "content": "A chain is only as strong as its weakest link.",
+        "meaning": "This proverb means that a group of people can only be as successful as the weakest member.",
+        "category": "Work & Success",
+        "example": "We need to make sure that everyone is well-trained. A chain is only as strong as its weakest link."
+    },
+    {
+        "type": "proverbs",
+        "content": "A fool and his money are soon parted.",
+        "meaning": "This proverb means that foolish people spend money carelessly and soon become poor.",
+        "category": "Life Lessons",
+        "example": "I can’t believe he spent all his money on that car. A fool and his money are soon parted."
+    },
+    {
+        "type": "proverbs",
+        "content": "A friend in need is a friend indeed.",
+        "meaning": "This proverb means that a friend who helps you when you really need help is a true friend.",
+        "category": "Family & Relationships",
+        "example": "I was in trouble, and she was there for me. A friend in need is a friend indeed."
+    },
+    {
+        "type": "proverbs",
+        "content": "A journey of a thousand miles begins with a single step.",
+        "meaning": "This proverb means that every long journey starts with one small step.",
+        "category": "Life Lessons",
+        "example": "I know it seems like a big project, but remember, a journey of a thousand miles begins with a single step."
+    },
+    {
+        "type": "proverbs",
+        "content": "A leopard cannot change its spots.",
+        "meaning": "This proverb means that people cannot change their basic nature.",
+        "category": "Life Lessons",
+        "example": "I know you think he’s changed, but remember, a leopard cannot change its spots."
+    },
+    {
+        "type": "proverbs",
+        "content": "A picture is worth a thousand words.",
+        "meaning": "This proverb means that a picture can convey a complex idea more effectively than words.",
+        "category": "Life Lessons",
+        "example": "I could try to describe it, but a picture is worth a thousand words."
+    },
+    {
+        "type": "proverbs",
+        "content": "A watched pot never boils.",
+        "meaning": "This proverb means that time seems to pass more slowly when you are waiting for something to happen.",
+        "category": "Life Lessons",
+        "example": "I know you’re excited, but a watched pot never boils."
+    },
+    {
+        "type": "proverbs",
+        "content": "Actions speak louder than words.",
+        "meaning": "This proverb means that what people do is more important than what they say.",
+        "category": "Life Lessons",
+        "example": "I know he said he would help, but remember, actions speak louder"
+    },
+    {
+        "type": "proverbs",
+        "content": "All good things must come to an end.",
+        "meaning": "This proverb means that nothing good can last forever.",
+        "category": "Life Lessons",
+        "example": "I know you’re sad, but remember, all good things must come to an end."
+    },
+    {
+        "type": "proverbs",
+        "content": "All is fair in love and war.",
+        "meaning": "This proverb means that in love and war, anything is acceptable.",
+        "category": "Life Lessons",
+        "example": "I know you think it’s unfair, but remember, all is fair in love and war."
+    },
+    {
+        "type": "proverbs",
+        "content": "All that glitters is not gold.",
+        "meaning": "This proverb means that not everything that looks precious or true turns out to be so.",
+        "category": "Life Lessons",
+        "example": "I know it looks good, but remember, all that glitters is not gold."
+    },
+    {
+        "type": "proverbs",
+        "content": "An apple a day keeps the doctor away.",
+        "meaning": "This proverb means that eating an apple every day can help to keep you healthy.",
+        "category": "Wisdom & Knowledge",
+        "example": "you may not like fruits but they keep you healthy, remember, an apple a day keeps the doctor away."
+    },
+    {
+        "type": "proverbs",
+        "content": "An ounce of prevention is worth a pound of cure.",
+        "meaning": "This proverb means that it is better to try to avoid problems in the first place, rather than trying to fix them once they arise.",
+        "category": "Life Lessons",
+        "example": "I know it seems like a lot of work, but remember, an ounce of prevention is worth a pound of cure."
+    },
+    {
+        "type": "proverbs",
+        "content": "As you sow, so shall you reap.",
+        "meaning": "This proverb means that the consequences of your actions will come back to you.",
+        "category": "Life Lessons",
+        "example": "I know you think you can get away with it, but remember, as you sow, so shall you reap."
+    },
+    {
+        "type": "proverbs",
+        "content": "Beggars can't be choosers.",
+        "meaning": "This proverb means that people who are in need must accept whatever help they are offered.",
+        "category": "Life Lessons",
+        "example": "I know it’s not perfect, but remember, beggars can’t be choosers."
+    },
+    {
+        "type": "proverbs",
+        "content": "Better late than never.",
+        "meaning": "This proverb means that it is better to do something late than to never do it at all.",
+        "category": "Life Lessons",
+        "example": "I know it’s late, but remember, better late than never."
+    },
+    {
+        "type": "proverbs",
+        "content": "Absence makes heart grow fonder.",
+        "meaning": "This proverb means that when people are apart, their love grows stronger.",
+        "category": "Family & Relationships",
+        "example": "When I was with him, he always fought with me, but now he cries for me on phone. I think distance made his heart grow fonder."
+    },
+    {
+        "type": "proverbs",
+        "content": "A cat has nine lives.",
+        "meaning": "This proverb means that cats are able to survive accidents that would kill most animals.",
+        "category": "Life Lessons",
+        "example": " I haven’t seen him in months, but I wouldn’t really worry about him. Everyone knows a cat has nine lives."
+    },
+    {
+        "type": "proverbs",
+        "content": "A diamond with a flaw is better than a common stone that is perfect.",
+        "meaning": "A rare, precious opportunity that comes with some problems is better than a regular opportunity that seems to be perfect.",
+        "category": "Wisdom & Knowledge",
+        "example": "I would advise you to work in a market that is growing fast than in a mature market. The former has its own problems, but that’s where you grow fast in your career. A diamond with a flaw is better than a common stone that is perfect."
+    },
+    {
+        "type": "proverbs",
+        "content": "A drowning man will clutch a straw.",
+        "meaning": "When someone is in a difficult situation, s/he will take any available opportunity to come out of it.",
+        "category": "Life Lessons",
+        "example": "After trying all reliable medicines, he is now visiting quacks to get a cure for his baldness. A drowning man will clutch a straw."
+    },
+    {
+        "type": "proverbs",
+        "content": "After victory, tighten your helmet chord.",
+        "meaning": "This proverb means that after achieving success, one should be more careful.",
+        "category": "Work & Success",
+        "example": "I know you have won the first round, but remember, after victory, tighten your helmet chord."
+    },
+    {
+        "type": "proverbs",
+        "content": "A good listener is a silent flatterer.",
+        "meaning": "people have an innate desire to be listened, but only few are good listeners. So, if you listen to someone attentively, you’ll flatter them.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "A goose quill is more dangerous than a lion’s claw.",
+        "meaning": "Foul, inconsiderate words can cause more pain than a physical attack.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "A happy heart is better than a full purse.",
+        "meaning": "This proverb means that happiness is more important than wealth.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "All is well that ends well.",
+        "meaning": "As long as the outcome is good, problems on the way don’t matter.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "All lay loads on a willing horse.",
+        "meaning": "People take advantage of those who are willing to help.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "All roads lead to Rome.",
+        "meaning": "There are many different ways to reach the same goal.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Among the blind, one-eyed man is king.",
+        "meaning": "An incapable person can gain powerful position if others in the fray are even more incapable.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "An army of sheep led by a lion would defeat an army of lions led by a sheep",
+        "meaning": "A strong army (lions) led by a weak leader (sheep) can lose to a weak army (sheep) led by a strong leader (lion)",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "An empty vessel makes much noise",
+        "meaning": "Fools and persons with shallow knowledge often talk a lot",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "An hour in the morning is worth two in the evening",
+        "meaning": "People are generally more productive in the morning: first, they're fresh after night's sleep; second, there are fewer distractions in the morning",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "An idle brain is devil's workshop",
+        "meaning": "If you've nothing to do, you'll likely think of mischief",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "An ounce of protection is worth a pound of cure",
+        "meaning": "A little precaution before a crisis is better than lot of firefighting afterwards",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "A picture is worth a thousand words",
+        "meaning": "It is easier to explain something through a picture than through words",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "A rolling stone gathers no moss",
+        "meaning": "A person who is constantly changing his job and relationships won't have depth in any of them and would be unfulfilled",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "A ship in the harbor is safe, but that's not what a ship is for",
+        "meaning": "Get out of your comfort zone to grow and fulfill your potential",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Ask no questions and hear no lies",
+        "meaning": "Don't ask questions which people can't or don't want to answer. If you ask such questions, you'll hear only lies",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "A stitch in time saves nine",
+        "meaning": "It's better to deal with problems immediately than wait, by when they worsen and become much bigger",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "A thing begun is half done",
+        "meaning": "A good beginning makes it easier to accomplish rest of the project",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "A tree is known by its fruit",
+        "meaning": "Like a tree is known by the fruit it bears, people are known by their character and actions (and not by their appearance)",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Barking dogs seldom bite",
+        "meaning": "People who appear threatening rarely do harm",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Beauty is in the eye of beholder",
+        "meaning": "What may seem beautiful to one person may not seem to another",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Beauty is only skin deep",
+        "meaning": "A person's character, intellect, and other inner qualities are more important than his/her physical appearance",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Begin to weave and God will give the thread",
+        "meaning": "When taking up a task that has no playbook to follow, we plan a lot and think a lot but don't act. In such pursuits, you can't foresee everything in advance and lot of assumptions will come to naught. What's required is action. Plan, but act. Often, new paths open as you move forward",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Be slow in choosing, but slower in changing",
+        "meaning": "Choose things or people after diligence, but once you choose, stick for long",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Best things in life are free",
+        "meaning": "Most valuable things are often free",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Better late than never",
+        "meaning": "It is better to get something (you desire) late than get it never",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Better to be poor and healthy than rich and sick",
+        "meaning": "Health is more important than money",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Birds of a feather flock together",
+        "meaning": "People with similar nature seek out each other's company",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "Blood is thicker than water",
+        "meaning": "Relationships with family is stronger than other relationships",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Clothes do not make a man",
+        "meaning": "A person's character can't be judged by his/her clothing and outward appearance",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Cowards die many times before their death",
+        "meaning": "Cowards suffer the feared effects of death many times in their lives",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Cross the stream where it is shallowest",
+        "meaning": "Do things in the easiest possible way",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Curiosity killed the cat",
+        "meaning": "Enquiring into others' work can be dangerous. One should mind own business",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Curses, like chickens, come home to roost",
+        "meaning": "The consequence of wrongdoings always catches up with the wrongdoer",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Different strokes for different folks",
+        "meaning": "Different people have different needs and wants, and we should be respectful to them",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "Discretion is the better part of valor",
+        "meaning": "It is wise to be careful and not show unnecessary bravery",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Do as you would be done by",
+        "meaning": "Treat others like the way you would like to be treated. Some people, for example, ingratiate themselves with the powerful but treat less powerful with contempt. Don't be like them",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "Doctors make the worst patients",
+        "meaning": "It's difficult to advice a person on a matter in which he is an expert. This is because he thinks that he already knows the best about what to do",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't bite the hand that feeds you",
+        "meaning": "Don't act badly toward the person who has helped you or from whom you derive some benefits, for you may lose those benefits in future",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't carry coals to Newcastle",
+        "meaning": "In the past, Newcastle was known for its coal mines. Coal was mined here and taken to other parts of England. So, if you carry coal to Newcastle, you're doing unnecessary work",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't cast pearls before swine",
+        "meaning": "Don't offer something valuable to someone who doesn't value it",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't count your chickens before they hatch",
+        "meaning": "Don't make plans based on future events that may not happen",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't cross the bridge till you come to it",
+        "meaning": "Deal with a situation when it happens and not unnecessarily worry about it in advance",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't empty the water jar until the rain falls",
+        "meaning": "Don't quit something, say a job, before securing its replacement",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't judge a book by its cover",
+        "meaning": "Just like you can't form an opinion of a book just by looking at its cover, you can't form an opinion about someone (or something) from their outward appearance",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't kill the goose that lays golden eggs",
+        "meaning": "If you kill a goose that lays golden eggs, you destroy something that makes lot of money for you",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't open a shop unless you know how to smile",
+        "meaning": "It's difficult to attract customers without a pleasant persona",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't put all your eggs in one basket",
+        "meaning": "Don't put all your effort into a single course of action, venture, investment, goal, or the like, because if it doesn't work, you lose everything",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't think there are no crocodiles because the water is calm",
+        "meaning": "Everything calm and peaceful doesn't mean there are no dangers around",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't throw the baby with the bathwater",
+        "meaning": "Don't discard something valuable while getting rid of something worthless",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Eagles don't catch flies",
+        "meaning": "Eagles catch bigger prey than flies, don't they? Don't take trivial matters to senior leaders in your organization. You have to resolve them, not they",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Early bird catches the worm",
+        "meaning": "One who starts early on the work has higher chance of success",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Empty bags can't stand upright",
+        "meaning": "A poor or hungry person cannot discharge his duties well",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Every cloud has a silver lining",
+        "meaning": "Bad times will eventually give way to better times. (The presence of silver lining means that the sun is behind the cloud and will eventually emerge.)",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Every dog has his day",
+        "meaning": "Even the unluckiest or the most unfortunate will taste success at some point",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Every horse thinks its own pack is heaviest",
+        "meaning": "We think that we work the hardest. This is also called responsibility bias: People tend to overvalue their own contributions and undervalue contributions of others",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Every tub must stand on its own bottom",
+        "meaning": "We can't hide incompetency behind teamwork. Everyone has to justify their expense",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Fall seven times; stand up eight",
+        "meaning": "Be resilient and try despite failures. That's how you succeed",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Familiarity breeds contempt",
+        "meaning": "If you know a situation, person, or thing well, you start taking them for granted and stop respecting them",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Faults are thick where love is thin",
+        "meaning": "If the love is shallow, people will find faults in each other",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Fine feathers make fine birds",
+        "meaning": "Like birds with colorful feathers look attractive, people in fine clothes look appealing. However, don't get swayed by external appearance when making friends",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Flattery, like perfume, should be smelled but not swallowed",
+        "meaning": "Enjoy the flattery you receive, but don't believe it because people often flatter to meet their own selfish interests",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Fools rush in where angels fear to tread",
+        "meaning": "Fools or inexperienced persons get involved in situations or pursue goals without much thought. In contrast, wise think through such situations or goals",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Fortune favors the brave",
+        "meaning": "If you carry out your plans boldly, luck is more likely to favor you",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "For want of a nail the shoe is lost, for want of a shoe the horse is lost, for want of a horse the rider is lost",
+        "meaning": "An insignificant nail resulted in the loss of the rider. Small things can have huge implications. So, don't ignore nuances and minute details. They're the ones that stand people out",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Get out while the going (getting) is good",
+        "meaning": "Get out of a situation while it's still easy to leave on good terms",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "God helps those who help themselves",
+        "meaning": "God helps those who make sincere effort",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Good bargains empty the purse",
+        "meaning": "Good bargains can be tempting and entice people into buying more than required, most of which can even go unused",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Good swimmers are often drowned",
+        "meaning": "Overconfidence can doom even the competent",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Good things come to those who wait",
+        "meaning": "Patience is often rewarded",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Good wine needs no bush",
+        "meaning": "A good product doesn't need promotion; it spreads through word of mouth",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Grief divided is made lighter",
+        "meaning": "If you share your grief, it'll get easier to bear",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Half a loaf is better than none",
+        "meaning": "We should thank for what we get even though it's less than what we had hoped for",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Home is where the heart is",
+        "meaning": "Don't you feel relieved on reaching home after you've been away for few days? No matter where you visit, you'll long to return to your home and family",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Honesty is the best policy",
+        "meaning": "It's always better to be truthful and honest, even if the opposite may get you short-term benefits",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Hope for the best, but prepare for the worst",
+        "meaning": "Be optimistic, but be prepared for a scenario where things can go wrong",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "If wishes were horses, beggars would ride",
+        "meaning": "If things were to happen by just wishing them, even the poorest will have everything they want",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you are patient in a moment of anger, you will escape hundred days of sorrow",
+        "meaning": "Actions and decisions taken in moments of anger aren't the best. They can bring great misery. Wait for your anger to pass and then act or decide",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you buy cheaply, you pay dearly",
+        "meaning": "Something cheap will be of suspect quality and will trouble you later in the form of higher maintenance and/or poor performance",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you can't beat them, join them",
+        "meaning": "If you can't beat your opponent, then work alongside them for mutual benefit",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you play with fire, you'll get burned",
+        "meaning": "If you do something dangerous or adventurous, you may get harmed",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you want peace, prepare for war",
+        "meaning": "If you utilize the peace time to get better at war, your adversaries will hesitate in waging a war on you, and hence the time of peace will stretch",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you want to go quickly, go alone. If you want to go far, go together",
+        "meaning": "Working with others may be somewhat slow compared to solo work, but you'll need to collaborate if you want long-term success because you can't do everything yourself",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "Ignorance is bliss",
+        "meaning": "If you don't know about something, you don't need to bother about it. In other words, if you're unaware of something, it won't cause you stress",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Imitation is the sincerest form of flattery",
+        "meaning": "Words of flattery may not be sincere. But action (imitation) is sincere. Who wouldn't be flattered if someone imitates them in some way?",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "It's better to be safe than sorry",
+        "meaning": "It's better to be cautious than regret later",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "It's better to lose the battle and win the war",
+        "meaning": "It's fine to lose small things if it helps you win the big pie",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "It is easy to find a thousand soldiers, but hard to find a good general",
+        "meaning": "Leaders are not easy to find. Retain them at whatever price it takes if you've them",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "It's never too late to mend",
+        "meaning": "It's never too late to change course or make amends for a past mistake. Don't let your ego come in between",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "It is part of a good shepherd to shear his flock, not to skin it",
+        "meaning": "People shouldn't be subjected to discomfort beyond tolerance",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "It takes a village to raise a child",
+        "meaning": "It takes an entire community to raise children in safe and nourishing environment",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "It takes two to make a quarrel",
+        "meaning": "Without involvement of at least two persons, a quarrel won't happen. So, if one of the two persons decide, a quarrel won't happen",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "It takes two to tango",
+        "meaning": "Where two parties are involved in a situation, fault usually lies with both if things go wrong. Rarely can one party be blamed entirely",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Justice delayed is justice denied",
+        "meaning": "In many countries, wheels of justice move so slow that sometimes it takes decades to pronounce a judgment. This causes suffering in terms of time and money wasted and the long wait for justice",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Kind words will unlock an iron door",
+        "meaning": "If you talk politely, people are more amenable to your suggestions and ask",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "Kings have long arms",
+        "meaning": "Governments have far-reaching powers",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Laughter is the best medicine",
+        "meaning": "Laughter reduces stress and improves immunity, leading to better health",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Learn to walk before you run",
+        "meaning": "Learn basic skills first before venturing into complex things",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Least said, soonest mended",
+        "meaning": "When you fall out with someone, restrain yourself from using foul, upsetting language. Words can leave a lasting impression and make it difficult to reconcile",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Lend your money and lose your friend",
+        "meaning": "Lending money to a friend can lead to souring of friendship. If you ask to repay, he may feel offended, and if he fails to repay, you'll be offended",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Let sleeping dogs lie",
+        "meaning": "Don't talk about a bad situation people have forgotten and that could unnecessarily create problem in the present",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Lightning never strikes twice in the same place",
+        "meaning": "Misfortune does not occur twice in the same way to the same person",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Like people, like priest",
+        "meaning": "Quality of people is a good indicator of the quality of their leader. We expect our bureaucracy, politicians, and other leaders to be impeccable. But they don't descend from heavens. They come from the very people they represent, and hence their quality will be reflective of the quality of people",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "Long absent, soon forgotten",
+        "meaning": "If you haven't met or spoken to a friend or relative in long time, he'll be forgotten. Such friendships eventually wither away or may just remain a distant acquaintance",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Look before you leap",
+        "meaning": "Consider all consequences before taking an action, especially when you can't retract",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Love me, love my dog",
+        "meaning": "If you love someone, then you should love them as they come with their qualities, shortcomings, friends, family, and so on",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Make hay while the sun shines",
+        "meaning": "Make the most of favorable conditions till they last",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Make yourself all honey and the flies will devour you",
+        "meaning": "If you're a yes-man and often talk sweet language to please others, people won't respect you",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Money doesn't grow on trees",
+        "meaning": "Spend money carefully because it's limited. You can't grow it on trees and replenish",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Money talks",
+        "meaning": "Money gives one power and influence",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "More die of food than famine",
+        "meaning": "More people die because of excess indulgence in food and eating unhealthy than because of shortage of food",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Murder will out",
+        "meaning": "Secrets rarely remain secret. They'll eventually come out and be known to all",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Necessity is the mother of invention",
+        "meaning": "A need or problem forces people to come up with innovative solutions",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Never put off until tomorrow what you can do today",
+        "meaning": "Don't delay doing something if you can do it immediately",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Never test the depth of water with both feet",
+        "meaning": "If you're testing the depth of water with both feet down, you risk being drowned if the water turns out to be deep. But if you test with one foot, you can pull away. The proverb means that before going whole hog into something unknown, assess the risk well",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Night brings counsel",
+        "meaning": "If you have a difficult problem to solve or an important decision to make, a good night's sleep will work wonders",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "No gain without pain",
+        "meaning": "To succeed in one's pursuits, it is necessary to work hard and sacrifice pleasures",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "No news is good news",
+        "meaning": "If you don't receive any news about someone or something, it means that everything is fine and going normally",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Oaks may fall when reeds stand the storm",
+        "meaning": "Those who are flexible and relatively insignificant can survive a crisis that brings down powerful who are unable or unwilling to adapt",
+        "category": "Nature & Environment"
+    },
+    {
+        "type": "proverbs",
+        "content": "Once bitten twice shy",
+        "meaning": "A person won't do something a second time because he/she had bad experience the first time",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "One man's junk is another man's treasure",
+        "meaning": "What may seem to be junk to one person maybe valuable to another",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Pen is mightier than sword",
+        "meaning": "Thinking and writing have more influence on people and events than use of force",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "People who live in glass houses shouldn't throw stones at others",
+        "meaning": "People who have some shortcomings shouldn't criticize others for having the same shortcomings",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Persuasion is better than force",
+        "meaning": "You can achieve better results through persuasion than through coercion",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Politeness costs little but yields much",
+        "meaning": "Speaking politely costs no more than speaking rudely, but it can yield much more by making friends",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Practice makes perfect",
+        "meaning": "Doing something over and over makes one better at it",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Practice what you preach",
+        "meaning": "Behave the way you encourage others to behave",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Rich man's joke is always funny",
+        "meaning": "People agree with and flatter rich people to be in good books with them",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Rome wasn't built in a day",
+        "meaning": "Important work takes time to complete",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Shrouds have no pockets",
+        "meaning": "We arrived in this world without anything, and we'll leave without anything",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Silence is half consent",
+        "meaning": "If you don't object to what someone says or does, you may be assumed to agree to some extent",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Slow and steady wins the race",
+        "meaning": "Slow and consistent work leads to better chance of success than quick work in spurts",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Smooth seas do not make skillful sailors.",
+        "meaning": "If you work only on regular projects, you won't be challenged and hence not become better at what you do.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Still water runs deep.",
+        "meaning": "If a person doesn't speak much, it doesn't mean they lack depth or are uninteresting.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Strike while the iron is hot.",
+        "meaning": "Take advantage of an opportunity before it extinguishes.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "The course of true love never did run smooth.",
+        "meaning": "True love goes through ups and downs.",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "The family that (eats) prays together stays together.",
+        "meaning": "The family that gets together regularly to pray or eat is more close-knit than the family that doesn't.",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "The grass is greener on the other side of fence.",
+        "meaning": "People are never satisfied with their own situation; they always think others have it better.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "The harder you work, the luckier you get.",
+        "meaning": "The harder you work, the more ideas and chances you may make for yourself.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "The higher the monkey climbs the more he shows his tail.",
+        "meaning": "The higher an incompetent person rises in an organization, the more his incompetence is exposed.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "The highest branch is not the safest roost.",
+        "meaning": "Those in the highest positions can be vulnerable as many aspire to replace them.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "The longest way around is the shortest way home.",
+        "meaning": "If you want to achieve the desired quality, work diligently and carefully and not cut corners.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "The nail that sticks out gets hammered down.",
+        "meaning": "If you deviate from the norm, you'll face resistance, even hostile reaction in extreme case.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "The only free cheese is in the mousetrap.",
+        "meaning": "There rarely are completely free offers; they come attached with hooks.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "The proof of pudding is in eating.",
+        "meaning": "You can only judge the quality of something after you have tried, used, or experienced it.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "There are many paths to the top of the mountain, but the view is always the same.",
+        "meaning": "We all want peace and happiness in life, and there are multiple ways of achieving this goal.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "There are more ways than one to skin a cat.",
+        "meaning": "There is more than one way to reach the same goal.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "There is no time like the present.",
+        "meaning": "The best time to do something is right now. So, act now.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "There is truth in wine.",
+        "meaning": "People when drunk speak truth, often unwittingly.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "The road to hell is paved with good intentions.",
+        "meaning": "Good intention doesn't matter if a person's actions lead to bad outcomes.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "The squeaky wheel gets the grease.",
+        "meaning": "People who complain the most are the ones who get attention or what they want.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "The tongue is but three inches long, yet it can kill a man six feet tall.",
+        "meaning": "We should avoid foul, inconsiderate language because it can leave lasting scars and dent relationships forever.",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Time and tide wait for no man.",
+        "meaning": "You've no control over passage of time; it'll keep slipping. So don't procrastinate, don't delay things.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "To know the road ahead, ask those coming back.",
+        "meaning": "Many take up a job or project they later hate, wasting precious years. This can be avoided if you ask few who've undertaken the same job or project about their experience.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Too many cooks spoil the broth.",
+        "meaning": "When too many people work together on a project, the result is inferior.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Two heads are better than one.",
+        "meaning": "Two persons have a better chance to solve a problem than one.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Two wrongs don't make a right.",
+        "meaning": "You shouldn't harm a person who has harmed you, even if you think that person deserves it.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Restless feet may walk into a snake pit",
+        "meaning": "When you have nothing good to do, you might land in trouble.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Two wives are like two pots of poison",
+        "meaning": "Possessing more things means more threat.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Ears that do not listen to advice accompany the head when chopped off",
+        "meaning": "A person who does not follow good advice will suffer.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "A tree cannot stand without roots",
+        "meaning": "Roots are the foundation of existence, which no one can ever take away.",
+        "category": "Nature & Environment"
+    },
+    {
+        "type": "proverbs",
+        "content": "You begin with the meal before the water is boiling",
+        "meaning": "Someone too impatient.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't be afraid of the forest because it's dark",
+        "meaning": "Don't give up on things when they appear hard.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Wherever a man goes to dwell, his character goes with him",
+        "meaning": "A man's character defines him.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "He who does not brush his teeth before breakfast complains about sour food",
+        "meaning": "An unprepared person complains about the situation.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Even the best dancer on the stage must retire sometime",
+        "meaning": "Nothing lasts forever.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "If there is no enemy within, the enemy outside cannot harm",
+        "meaning": "When there are no negative thoughts in your mind, others can not harm you.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you heal a person's leg, do not be surprised if they run away",
+        "meaning": "If you teach a skill to someone, they can use it against you.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "A roaring lion kills no game",
+        "meaning": "You won't get far if you sit around and talk about it.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "When you befriend a chief, keep in mind that he sits on a rope",
+        "meaning": "No matter how free we wish to live, the obligations of our roles constrain us.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Getting up early shortens the journey",
+        "meaning": "Preparing for something beforehand makes the process easier.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "A single bracelet does not jingle",
+        "meaning": "The power of numbers is undeniable.",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you have pride, you will have no room for wisdom",
+        "meaning": "Only one who is humble can attain wisdom.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Whoever seeks good fortune does it at the expense of peace",
+        "meaning": "Chasing after money leads to a chaotic life.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Eat when the food is ready. Speak when the time is right",
+        "meaning": "Do something when it is the right time.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "He has twelve professions but thirteen mishaps",
+        "meaning": "A person good at a number of things but not great at anything.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Smooth seas do not make skilful sailors",
+        "meaning": "Comfortable situations don't hone your skills.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Sugarcane is sweetest at the joint",
+        "meaning": "In the everyday world, what appears to be difficult to achieve is usually the greatest.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Coffee and love taste best when hot",
+        "meaning": "You can enjoy some moments only at a particular time.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "A woman is never old when it comes to the dance she knows",
+        "meaning": "You are never too old to do something you are passionate about.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "You learn how to cut down trees by cutting them down",
+        "meaning": "You will only learn something by doing it.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Do not look where you fell but where you slipped",
+        "meaning": "Don't focus on your failures; instead, consider what led to them.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you close your eyes to facts, you will learn through accidents",
+        "meaning": "Always seek the truth or get in trouble.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don't set sail using someone else's star",
+        "meaning": "Just because someone was successful following a path does not indicate you will be able to accomplish it.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "The elephant does not limp when walking on thorns",
+        "meaning": "Self-belief is necessary for success.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Gold should be sold to someone who understands its worth",
+        "meaning": "Someone who understands the true worth of a valuable object achieves it.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "The day the monkey dies, all the trees will get slippery",
+        "meaning": "Fate turns in favour of a destined event.",
+        "category": "Nature & Environment"
+    },
+    {
+        "type": "proverbs",
+        "content": "Nobody is born wise",
+        "meaning": "Wisdom comes from a relentless desire to learn and not from birth.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "What you learn is what you'll take with you when you die",
+        "meaning": "We leave the material things behind. Only our learning and deeds exist as our legacy.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Being lost is a great method to learn how to navigate",
+        "meaning": "You will know to strive in life when you face problems.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Milk and honey have different colours. Yet they coexist peacefully in the same house.",
+        "meaning": "Love each other and live peacefully despite the differences.",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "The axe fails to notice, but the tree remembers.",
+        "meaning": "We can move on, but we cannot undo the damage.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Love like rain doesn’t decide the grass it rains on.",
+        "meaning": "One should love without bias.",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "If you want to go fast, go alone. If you want to go far, go together.",
+        "meaning": "Having a team takes time to get results. But teammates complement one another for their differences so that you can make it far.",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "It is better to be loved than to be feared.",
+        "meaning": "Love is a powerful tool. It makes you a better person. Chose to receive love over fear.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "All errors are amendable.",
+        "meaning": "Making mistakes is human nature.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Don’t tell the man carrying you that he stinks if you don’t want to walk alone.",
+        "meaning": "Value the person willing to help you. Don’t bother about their shortcomings.",
+        "category": "Community & Unity"
+    },
+    {
+        "type": "proverbs",
+        "content": "Whoever adores the vase adores the contents as well.",
+        "meaning": "If you love someone because of one aspect, you should like their other qualities.",
+        "category": "Family & Relationships"
+    },
+    {
+        "type": "proverbs",
+        "content": "Birds sing not because they have answers but because they have songs.",
+        "meaning": "Every person we respect has a talent.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Once water spills, it cannot scoop back.",
+        "meaning": "Some things can not change no matter what.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "A person who sells eggs should not start a fight in the market.",
+        "meaning": "Don’t trigger anything if you are vulnerable.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "You’ll remember every drop once you start carrying your water.",
+        "meaning": "You only know the value of something once it is gone.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Nobody takes medicine on an unwell person’s behalf.",
+        "meaning": "Nobody will switch places with you in bad times.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Even if the cock does not crow, the sun will rise.",
+        "meaning": "An inevitable event will happen no matter what.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "Rain does not fall on just one roof.",
+        "meaning": "Everyone faces difficulties at some point in their lives.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "When the hyena falls into a bottomless pit, he does not shout for help.",
+        "meaning": "No one helps a wicked person even in the worst situations.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Not everyone who chased the zebra caught it.",
+        "meaning": "Trying doesn't guarantee success, but you can't succeed without trying.",
+        "category": "Work & Success"
+    },
+    {
+        "type": "proverbs",
+        "content": "Teeth do not see poverty.",
+        "meaning": "People can find something to smile about even in difficult circumstances.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "A child that does not cry will die in the carrier.",
+        "meaning": "If you want something, you must ask for it.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "You cannot shave someone in his absence.",
+        "meaning": "If you do something wrong, people should tell you so you can learn and improve.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "What an elder sees sitting down, a child cannot see it even if he climbs an iroko tree.",
+        "meaning": "Wisdom comes with age.",
+        "category": "Wisdom & Knowledge"
+    },
+    {
+        "type": "proverbs",
+        "content": "A woman holds the knife at the sharp end.",
+        "meaning": "This proverb acknowledges the challenges that women face.",
+        "category": "Life Lessons"
+    },
+    {
+        "type": "proverbs",
+        "content": "Two rams cannot drink from the same bucket at the same time.",
+        "meaning": "A Yoruba proverb that means people have different capabilities and preferences.",
+        "category": "Community & Unity"
+    }
+]
