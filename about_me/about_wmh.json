@@ -2,13 +2,13 @@
   "profile": {
     "name": "Win Min Htet",
     "displayName": "Win Min Htet",
-    "headline": "Software Developer | Flutter & Mobile App Developer",
-    "professionalTitle": "Software Engineer",
+    "headline": "Software Developer | Mobile App Developer",
+    "professionalTitle": "Mobile Developer",
     "location": "Myanmar",
-    "email": "",
+    "email": "winminhtet.dev@gmail.com",
     "phone": "",
-    "website": "",
-    "profileImage": "",
+    "website": "https://winminhtetz.pages.dev/",
+    "profileImage": "https://avatars.githubusercontent.com/u/69183463?v=4",
     "resumeUrl": "",
     "availability": "",
     "shortBio": "A software developer focused on building mobile applications, backend services, and practical digital products. Experienced in Flutter, API integration, Firebase, cloud services, and cross-platform application development.",
@@ -16,11 +16,11 @@
     "languages": [
       {
         "name": "Burmese",
-        "proficiency": ""
+        "proficiency": "100"
       },
       {
         "name": "English",
-        "proficiency": ""
+        "proficiency": "80"
       }
     ]
   },
@@ -291,26 +291,6 @@
       ],
       "technologies": [],
       "sourceCodeUrl": "",
-      "websiteUrl": "",
-      "images": []
-    },
-    {
-      "id": "image-extractor",
-      "name": "Image Extractor",
-      "subtitle": "Browser Extension",
-      "category": "Developer Tool",
-      "status": "Development",
-      "featured": false,
-      "description": "A browser extension project focused on extracting images from web pages.",
-      "features": [
-        "Web page image extraction",
-        "Browser-based tooling"
-      ],
-      "technologies": [
-        "JavaScript",
-        "Browser Extension APIs"
-      ],
-      "repositoryUrl": "https://github.com/winminhtetz/image-extractor",
       "websiteUrl": "",
       "images": []
     }
