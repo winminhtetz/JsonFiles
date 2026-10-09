@@ -1,0 +1,467 @@
+{
+  "profile": {
+    "name": "Win Min Htet",
+    "displayName": "Win Min Htet",
+    "headline": "Software Developer | Flutter & Mobile App Developer",
+    "professionalTitle": "Software Engineer",
+    "location": "Myanmar",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "profileImage": "",
+    "resumeUrl": "",
+    "availability": "",
+    "shortBio": "A software developer focused on building mobile applications, backend services, and practical digital products. Experienced in Flutter, API integration, Firebase, cloud services, and cross-platform application development.",
+    "longBio": "I am a software developer who enjoys turning ideas into useful digital products. My work spans mobile app development, backend API integration, authentication, cloud infrastructure, subscription systems, and AI-powered features. I focus on building practical, user-friendly applications with maintainable architecture and polished interfaces.",
+    "languages": [
+      {
+        "name": "Burmese",
+        "proficiency": ""
+      },
+      {
+        "name": "English",
+        "proficiency": ""
+      }
+    ]
+  },
+  "aboutMe": {
+    "title": "About Me",
+    "description": "I build mobile applications and digital products that solve real-world problems. I enjoy exploring new technologies, improving user experiences, and developing complete solutions from frontend interfaces to backend services.",
+    "interests": [
+      "Mobile Application Development",
+      "Software Architecture",
+      "UI/UX Design",
+      "Artificial Intelligence Integration",
+      "Backend Development",
+      "Cloud Infrastructure",
+      "Developer Tools"
+    ],
+    "careerGoals": [
+      "Build high-quality, scalable software products",
+      "Create intuitive and accessible user experiences",
+      "Explore practical AI-powered applications",
+      "Develop reliable backend systems and APIs"
+    ]
+  },
+  "education": [
+    {
+      "institution": "",
+      "degree": "",
+      "fieldOfStudy": "",
+      "startDate": "",
+      "endDate": "",
+      "location": "",
+      "description": "",
+      "achievements": []
+    }
+  ],
+  "workExperiences": [
+    {
+      "company": "",
+      "position": "",
+      "employmentType": "",
+      "location": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "description": "",
+      "responsibilities": [],
+      "technologies": []
+    }
+  ],
+  "skills": {
+    "mobileDevelopment": [
+      {
+        "name": "Flutter",
+        "category": "Mobile Development"
+      },
+      {
+        "name": "Dart",
+        "category": "Programming Language"
+      },
+      {
+        "name": "React Native",
+        "category": "Cross-platform Development"
+      },
+      {
+        "name": "iOS Development",
+        "category": "Platform Development"
+      },
+      {
+        "name": "Android Development",
+        "category": "Platform Development"
+      }
+    ],
+    "frontendDevelopment": [
+      {
+        "name": "React",
+        "category": "Frontend Development"
+      },
+      {
+        "name": "Next.js",
+        "category": "Web Development"
+      },
+      {
+        "name": "JavaScript",
+        "category": "Programming Language"
+      },
+      {
+        "name": "TypeScript",
+        "category": "Programming Language"
+      },
+      {
+        "name": "HTML",
+        "category": "Web Technology"
+      },
+      {
+        "name": "CSS",
+        "category": "Web Technology"
+      }
+    ],
+    "backendDevelopment": [
+      {
+        "name": "Node.js",
+        "category": "Backend Development"
+      },
+      {
+        "name": "Hono",
+        "category": "API Development"
+      },
+      {
+        "name": "REST APIs",
+        "category": "API Development"
+      },
+      {
+        "name": "Cloudflare Workers",
+        "category": "Serverless Computing"
+      }
+    ],
+    "databaseAndBackendServices": [
+      "Firebase",
+      "Firebase Authentication",
+      "Cloud Firestore",
+      "Firebase AI Logic",
+      "Supabase",
+      "Cloudflare D1",
+      "SQLite"
+    ],
+    "stateManagementAndArchitecture": [
+      "Riverpod",
+      "GetX",
+      "GoRouter",
+      "Clean Architecture"
+    ],
+    "aiAndIntegrations": [
+      "Gemini API",
+      "AI-powered Translation",
+      "YouTube Transcript Integration",
+      "FFmpeg Integration",
+      "Third-party API Integration"
+    ],
+    "toolsAndPlatforms": [
+      "Git",
+      "GitHub",
+      "Xcode",
+      "Android Studio",
+      "Visual Studio Code",
+      "CocoaPods",
+      "Gradle",
+      "Cloudflare",
+      "Google Play Console"
+    ],
+    "otherSkills": [
+      "API Integration",
+      "Authentication Systems",
+      "Subscription Management",
+      "In-App Purchases",
+      "App Store Deployment",
+      "Performance Debugging",
+      "Responsive UI Development"
+    ]
+  },
+  "projects": [
+    {
+      "id": "mm-subber",
+      "name": "MM Subber",
+      "subtitle": "Myanmar Subtitle Editor",
+      "category": "Mobile Application",
+      "status": "In Development",
+      "featured": true,
+      "description": "A mobile-first subtitle editing application designed for Myanmar translators and subtitle creators.",
+      "problem": "Editing, translating, and managing subtitle files on mobile devices can be difficult and time-consuming.",
+      "solution": "An application that brings subtitle editing, translation workflows, file management, and related tools together in one place.",
+      "features": [
+        "SRT and VTT subtitle editing",
+        "Subtitle file import and export",
+        "Subtitle Explorer",
+        "English-to-Myanmar translation integrations",
+        "Myanmar dictionary integration",
+        "YouTube transcript integration",
+        "Video subtitle processing",
+        "Premium subscription system"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Riverpod",
+        "Firebase",
+        "Cloudflare Workers",
+        "Cloudflare D1",
+        "Gemini API",
+        "FFmpeg"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "packageId": "com.wayne.mm_subber",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wayne.mm_subber",
+      "sourceCodeUrl": "",
+      "websiteUrl": "",
+      "images": []
+    },
+    {
+      "id": "mahar",
+      "name": "Mahar",
+      "subtitle": "Entertainment and Video Streaming",
+      "category": "Mobile Application",
+      "status": "",
+      "featured": true,
+      "description": "A project involving entertainment application development and video-related integrations.",
+      "contributions": [
+        "Mobile application development",
+        "API integration",
+        "Video and episode data handling",
+        "Authentication integration",
+        "Platform-specific debugging"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "REST APIs",
+        "Firebase",
+        "iOS",
+        "Android"
+      ],
+      "platforms": [
+        "iOS",
+        "Android"
+      ],
+      "sourceCodeUrl": "",
+      "websiteUrl": "",
+      "images": []
+    },
+    {
+      "id": "tara",
+      "name": "Tara",
+      "subtitle": "Horoscope and Tarot Application",
+      "category": "Mobile Application",
+      "status": "",
+      "featured": false,
+      "description": "A horoscope and tarot-themed application with a dark, cosmic visual direction.",
+      "features": [
+        "Horoscope-related experiences",
+        "Tarot-themed interfaces",
+        "Dark cosmic gradients",
+        "Mobile-first user interface"
+      ],
+      "technologies": [
+        "React Native",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "packageId": "com.wayne.tara",
+      "sourceCodeUrl": "",
+      "websiteUrl": "",
+      "images": []
+    },
+    {
+      "id": "ngwe-win-smart-agent",
+      "name": "Ngwe Win Smart Agent",
+      "subtitle": "Digital Ledger and Payment Tracking",
+      "category": "Business Application",
+      "status": "",
+      "featured": false,
+      "description": "A business-oriented application concept focused on ledger management and digital payment tracking.",
+      "features": [
+        "Ledger management",
+        "Payment tracking",
+        "Business transaction records",
+        "KBZPay and Wave-related workflows"
+      ],
+      "technologies": [],
+      "sourceCodeUrl": "",
+      "websiteUrl": "",
+      "images": []
+    },
+    {
+      "id": "image-extractor",
+      "name": "Image Extractor",
+      "subtitle": "Browser Extension",
+      "category": "Developer Tool",
+      "status": "Development",
+      "featured": false,
+      "description": "A browser extension project focused on extracting images from web pages.",
+      "features": [
+        "Web page image extraction",
+        "Browser-based tooling"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Browser Extension APIs"
+      ],
+      "repositoryUrl": "https://github.com/winminhtetz/image-extractor",
+      "websiteUrl": "",
+      "images": []
+    }
+  ],
+  "services": [
+    {
+      "title": "Mobile App Development",
+      "description": "Develop cross-platform mobile applications using Flutter and React Native.",
+      "icon": "smartphone"
+    },
+    {
+      "title": "API and Backend Integration",
+      "description": "Connect applications to REST APIs, authentication services, databases, and cloud platforms.",
+      "icon": "server"
+    },
+    {
+      "title": "Firebase Development",
+      "description": "Implement authentication, cloud data services, AI integrations, and application configuration.",
+      "icon": "database"
+    },
+    {
+      "title": "AI Integration",
+      "description": "Integrate AI APIs into applications for translation and other intelligent workflows.",
+      "icon": "brain"
+    },
+    {
+      "title": "UI/UX Implementation",
+      "description": "Build polished mobile interfaces with attention to usability, consistency, and visual quality.",
+      "icon": "palette"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "MM Subber Development",
+      "description": "Developing a specialized subtitle editing product for Myanmar subtitle creators.",
+      "date": "",
+      "url": ""
+    }
+  ],
+  "certifications": [],
+  "openSource": [
+    {
+      "name": "Image Extractor",
+      "platform": "GitHub",
+      "url": "https://github.com/winminhtetz/image-extractor",
+      "description": "A browser extension project for extracting images from web pages."
+    }
+  ],
+  "socialLinks": {
+    "github": "https://github.com/winminhtetz",
+    "linkedin": "",
+    "facebook": "",
+    "telegram": "",
+    "youtube": "",
+    "website": ""
+  },
+  "portfolioSettings": {
+    "theme": "dark",
+    "primaryColor": "#6C63FF",
+    "accentColor": "#00D4FF",
+    "showAbout": true,
+    "showEducation": true,
+    "showExperience": true,
+    "showSkills": true,
+    "showProjects": true,
+    "showServices": true,
+    "showAchievements": true,
+    "showOpenSource": true,
+    "showContact": true
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "description": "Have an idea for a mobile application or digital product? Feel free to get in touch.",
+    "email": "",
+    "phone": "",
+    "location": "Myanmar",
+    "availableForFreelance": null,
+    "contactUrl": ""
+  },
+  "softSkills": [
+    {
+      "id": "problem-solving",
+      "name": "Problem Solving",
+      "description": "Analyze technical challenges, identify root causes, and develop practical solutions.",
+      "icon": "puzzle"
+    },
+    {
+      "id": "critical-thinking",
+      "name": "Critical Thinking",
+      "description": "Evaluate different approaches and make thoughtful technical decisions.",
+      "icon": "brain"
+    },
+    {
+      "id": "continuous-learning",
+      "name": "Continuous Learning",
+      "description": "Explore new technologies, learn new tools, and continuously improve development skills.",
+      "icon": "graduation-cap"
+    },
+    {
+      "id": "adaptability",
+      "name": "Adaptability",
+      "description": "Adapt to changing requirements, new technologies, and different project needs.",
+      "icon": "refresh-cw"
+    },
+    {
+      "id": "attention-to-detail",
+      "name": "Attention to Detail",
+      "description": "Pay attention to code quality, UI consistency, application behavior, and edge cases.",
+      "icon": "scan-eye"
+    },
+    {
+      "id": "time-management",
+      "name": "Time Management",
+      "description": "Organize development tasks, prioritize important work, and manage deadlines effectively.",
+      "icon": "clock"
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "description": "Explain technical concepts, discuss requirements, and share ideas clearly with others.",
+      "icon": "messages-square"
+    },
+    {
+      "id": "teamwork",
+      "name": "Teamwork",
+      "description": "Collaborate with teammates, share knowledge, and work toward common project goals.",
+      "icon": "users"
+    },
+    {
+      "id": "self-motivation",
+      "name": "Self-Motivation",
+      "description": "Take initiative, explore ideas independently, and keep working toward development goals.",
+      "icon": "target"
+    },
+    {
+      "id": "creativity",
+      "name": "Creativity",
+      "description": "Explore innovative ideas and design user-friendly solutions to practical problems.",
+      "icon": "lightbulb"
+    },
+    {
+      "id": "debugging-patience",
+      "name": "Patience and Persistence",
+      "description": "Investigate difficult bugs methodically and persist until a suitable solution is found.",
+      "icon": "persistence"
+    },
+    {
+      "id": "ownership",
+      "name": "Ownership and Responsibility",
+      "description": "Take responsibility for assigned tasks and focus on delivering reliable results.",
+      "icon": "shield-check"
+    }
+  ]
+}
